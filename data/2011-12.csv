@@ -17,7 +17,7 @@ Marián Gáborík (RW/LW),New York Rangers,82,41,35,76,0.93,34,15,https://www.el
 Jordan Eberle (RW),Edmonton Oilers,78,34,42,76,0.97,10,4,https://www.eliteprospects.com/player/11098/jordan-eberle,2011-12,nhl,Jordan Eberle,RW,FW,0,0.0,0
 Anze Kopitar (C),Los Angeles Kings,82,25,51,76,0.93,20,12,https://www.eliteprospects.com/player/4233/anze-kopitar,2011-12,nhl,Anze Kopitar,C,FW,0,0.0,0
 Martin St-Louis (RW),Tampa Bay Lightning,77,25,49,74,0.96,16,-3,https://www.eliteprospects.com/player/8772/martin-st-louis,2011-12,nhl,Martin St-Louis,RW,FW,0,0.0,0
-Jason Pominville (RW),Buffalo Sabres,82,30,43,73,0.89,12,-7,https://www.eliteprospects.com/player/8809/jason-pominville,2011-12,nhl,Jason Pominville,RW,FW,0,0.0,0
+Jason Pominville (RW),Buffalo Sabres,82,30,43,73,0.89,12,-7,https://www.eliteprospects.com/player/8809/jason-pominville,2011-12,nhl,Jason Pominville,RW,FW,Jason Pominville,2.0,1
 Loui Eriksson (LW/RW),Dallas Stars,82,26,45,71,0.87,12,18,https://www.eliteprospects.com/player/683/loui-eriksson,2011-12,nhl,Loui Eriksson,LW/RW,FW,0,0.0,0
 Eric Staal (C),Carolina Hurricanes,82,24,46,70,0.85,48,-20,https://www.eliteprospects.com/player/3656/eric-staal,2011-12,nhl,Eric Staal,C,FW,0,0.0,0
 Matt Moulson (LW/RW),New York Islanders,82,36,33,69,0.84,6,1,https://www.eliteprospects.com/player/9744/matt-moulson,2011-12,nhl,Matt Moulson,LW/RW,FW,0,0.0,0
@@ -85,7 +85,7 @@ David Legwand (C),Nashville Predators,78,19,34,53,0.68,26,3,https://www.elitepro
 Dustin Byfuglien (D),Winnipeg Jets,66,12,41,53,0.80,72,-8,https://www.eliteprospects.com/player/10667/dustin-byfuglien,2011-12,nhl,Dustin Byfuglien,D,DEF,0,0.0,0
 Brian Campbell (D),Florida Panthers,82,4,49,53,0.65,6,-9,https://www.eliteprospects.com/player/8565/brian-campbell,2011-12,nhl,Brian Campbell,D,DEF,0,0.0,0
 Alexandre Burrows (RW/LW),Vancouver Canucks,80,28,24,52,0.65,90,24,https://www.eliteprospects.com/player/10224/alexandre-burrows,2011-12,nhl,Alexandre Burrows,RW/LW,FW,0,0.0,0
-Gabriel Landeskog (LW/RW),Colorado Avalanche,82,22,30,52,0.63,51,20,https://www.eliteprospects.com/player/10393/gabriel-landeskog,2011-12,nhl,Gabriel Landeskog,LW/RW,FW,0,0.0,0
+Gabriel Landeskog (LW/RW),Colorado Avalanche,82,22,30,52,0.63,51,20,https://www.eliteprospects.com/player/10393/gabriel-landeskog,2011-12,nhl,Gabriel Landeskog,LW/RW,FW,Gabriel Landeskog,11.0,1
 Ryan Nugent-Hopkins (C),Edmonton Oilers,62,18,34,52,0.84,16,-2,https://www.eliteprospects.com/player/25636/ryan-nugent-hopkins,2011-12,nhl,Ryan Nugent-Hopkins,C,FW,0,0.0,0
 Tomas Plekanec (C),Montréal Canadiens,81,17,35,52,0.64,56,-15,https://www.eliteprospects.com/player/8668/tomas-plekanec,2011-12,nhl,Tomas Plekanec,C,FW,0,0.0,0
 Zdeno Chára (D),Boston Bruins,79,12,40,52,0.66,86,33,https://www.eliteprospects.com/player/4530/zdeno-chara,2011-12,nhl,Zdeno Chára,D,DEF,0,0.0,0
@@ -126,7 +126,7 @@ Jussi Jokinen (W/C),Carolina Hurricanes,79,12,34,46,0.58,54,-2,https://www.elite
 Dennis Wideman (D),Washington Capitals,82,11,35,46,0.56,46,-8,https://www.eliteprospects.com/player/8826/dennis-wideman,2011-12,nhl,Dennis Wideman,D,DEF,0,0.0,0
 Ryan Suter (D),Nashville Predators,79,7,39,46,0.58,30,15,https://www.eliteprospects.com/player/8897/ryan-suter,2011-12,nhl,Ryan Suter,D,DEF,0,0.0,0
 Kyle Okposo (RW/C),New York Islanders,79,24,21,45,0.57,46,-15,https://www.eliteprospects.com/player/10458/kyle-okposo,2011-12,nhl,Kyle Okposo,RW/C,FW,0,0.0,0
-Ryane Clowe (LW),San Jose Sharks,76,17,28,45,0.59,97,-5,https://www.eliteprospects.com/player/9116/ryane-clowe,2011-12,nhl,Ryane Clowe,LW,FW,0,0.0,0
+Ryane Clowe (LW),San Jose Sharks,76,17,28,45,0.59,97,-5,https://www.eliteprospects.com/player/9116/ryane-clowe,2011-12,nhl,Ryane Clowe,LW,FW,Ryane Clowe,1.0,1
 Kyle Brodziak (C),Minnesota Wild,82,22,22,44,0.54,66,-15,https://www.eliteprospects.com/player/9097/kyle-brodziak,2011-12,nhl,Kyle Brodziak,C,FW,0,0.0,0
 Petr Sýkora (RW),New Jersey Devils,82,21,23,44,0.54,40,4,https://www.eliteprospects.com/player/8692/petr-sykora,2011-12,nhl,Petr Sýkora,RW,FW,0,0.0,0
 Jeff Skinner (LW/C),Carolina Hurricanes,64,20,24,44,0.69,56,-8,https://www.eliteprospects.com/player/23668/jeff-skinner,2011-12,nhl,Jeff Skinner,LW/C,FW,Jeff Skinner,5.0,1
@@ -175,7 +175,7 @@ Colin Greening (C/LW),Ottawa Senators,82,17,20,37,0.45,46,-4,https://www.elitepr
 Milan Hejduk (RW),Colorado Avalanche,81,14,23,37,0.46,14,-12,https://www.eliteprospects.com/player/8603/milan-hejduk,2011-12,nhl,Milan Hejduk,RW,FW,0,0.0,0
 Brent Burns (D),San Jose Sharks,81,11,26,37,0.46,34,8,https://www.eliteprospects.com/player/9103/brent-burns,2011-12,nhl,Brent Burns,D,DEF,0,0.0,0
 Antoine Vermette (C),totals,82,11,26,37,0.45,28,-13,https://www.eliteprospects.com/player/8840/antoine-vermette,2011-12,nhl,Antoine Vermette,C,FW,0,0.0,0
-Sidney Crosby (C),Pittsburgh Penguins,22,8,29,37,1.68,14,15,https://www.eliteprospects.com/player/6146/sidney-crosby,2011-12,nhl,Sidney Crosby,C,FW,0,0.0,0
+Sidney Crosby (C),Pittsburgh Penguins,22,8,29,37,1.68,14,15,https://www.eliteprospects.com/player/6146/sidney-crosby,2011-12,nhl,Sidney Crosby,C,FW,Sidney Crosby,12.0,1
 Sergei Gonchar (D),Ottawa Senators,74,5,32,37,0.50,55,-4,https://www.eliteprospects.com/player/8678/sergei-gonchar,2011-12,nhl,Sergei Gonchar,D,DEF,0,0.0,0
 Dan Hamhuis (D),Vancouver Canucks,82,4,33,37,0.45,46,29,https://www.eliteprospects.com/player/9040/dan-hamhuis,2011-12,nhl,Dan Hamhuis,D,DEF,0,0.0,0
 Nick Leddy (D),Chicago Blackhawks,82,3,34,37,0.45,10,-12,https://www.eliteprospects.com/player/38067/nick-leddy,2011-12,nhl,Nick Leddy,D,DEF,0,0.0,0
@@ -196,14 +196,14 @@ Jeff Carter (C),totals,55,21,13,34,0.62,16,-12,https://www.eliteprospects.com/pl
 Maxime Talbot (C/W),Philadelphia Flyers,81,19,15,34,0.42,59,5,https://www.eliteprospects.com/player/9511/maxime-talbot,2011-12,nhl,Maxime Talbot,C/W,FW,0,0.0,0
 Tuomo Ruutu (LW/RW),Carolina Hurricanes,72,18,16,34,0.47,50,-3,https://www.eliteprospects.com/player/2695/tuomo-ruutu,2011-12,nhl,Tuomo Ruutu,LW/RW,FW,0,0.0,0
 Jason Arnott (C),St. Louis Blues,72,17,17,34,0.47,26,13,https://www.eliteprospects.com/player/9068/jason-arnott,2011-12,nhl,Jason Arnott,C,FW,0,0.0,0
-Tyler Ennis (RW/LW),Buffalo Sabres,48,15,19,34,0.71,14,11,https://www.eliteprospects.com/player/11667/tyler-ennis,2011-12,nhl,Tyler Ennis,RW/LW,FW,0,0.0,0
+Tyler Ennis (RW/LW),Buffalo Sabres,48,15,19,34,0.71,14,11,https://www.eliteprospects.com/player/11667/tyler-ennis,2011-12,nhl,Tyler Ennis,RW/LW,FW,Tyler Ennis,1.0,1
 Shawn Horcoff (C),Edmonton Oilers,81,13,21,34,0.42,24,-23,https://www.eliteprospects.com/player/4375/shawn-horcoff,2011-12,nhl,Shawn Horcoff,C,FW,0,0.0,0
 Nicklas Lidström (D),Detroit Red Wings,70,11,23,34,0.49,28,21,https://www.eliteprospects.com/player/722/nicklas-lidstrom,2011-12,nhl,Nicklas Lidström,D,DEF,0,0.0,0
 Brandon Dubinsky (C/LW),New York Rangers,77,10,24,34,0.44,110,16,https://www.eliteprospects.com/player/11024/brandon-dubinsky,2011-12,nhl,Brandon Dubinsky,C/LW,FW,0,0.0,0
 Brent Seabrook (D),Chicago Blackhawks,78,9,25,34,0.44,22,21,https://www.eliteprospects.com/player/8879/brent-seabrook,2011-12,nhl,Brent Seabrook,D,DEF,0,0.0,0
 Martin Hanzal (C),Phoenix Coyotes,64,8,26,34,0.53,63,12,https://www.eliteprospects.com/player/9237/martin-hanzal,2011-12,nhl,Martin Hanzal,C,FW,0,0.0,0
 Troy Brouwer (RW/LW),Washington Capitals,82,18,15,33,0.40,61,-15,https://www.eliteprospects.com/player/10669/troy-brouwer,2011-12,nhl,Troy Brouwer,RW/LW,FW,0,0.0,0
-Ryan Jones (LW/RW),Edmonton Oilers,79,17,16,33,0.42,42,-7,https://www.eliteprospects.com/player/11410/ryan-jones,2011-12,nhl,Ryan Jones,LW/RW,FW,0,0.0,0
+Ryan Jones (LW/RW),Edmonton Oilers,79,17,16,33,0.42,42,-7,https://www.eliteprospects.com/player/11410/ryan-jones,2011-12,nhl,Ryan Jones,LW/RW,FW,Ryan Jones,16.0,1
 Jason Garrison (D),Florida Panthers,77,16,17,33,0.43,32,6,https://www.eliteprospects.com/player/24173/jason-garrison,2011-12,nhl,Jason Garrison,D,DEF,0,0.0,0
 Alexei Ponikarovsky (LW),totals,82,14,19,33,0.40,34,-3,https://www.eliteprospects.com/player/8658/alexei-ponikarovsky,2011-12,nhl,Alexei Ponikarovsky,LW,FW,0,0.0,0
 Daniel Cleary (RW/LW),Detroit Red Wings,75,12,21,33,0.44,30,2,https://www.eliteprospects.com/player/4376/daniel-cleary,2011-12,nhl,Daniel Cleary,RW/LW,FW,0,0.0,0
@@ -220,7 +220,7 @@ Tomas Kopecky (W/C),Florida Panthers,80,10,22,32,0.40,32,-8,https://www.elitepro
 John Carlson (D),Washington Capitals,82,9,23,32,0.39,22,-15,https://www.eliteprospects.com/player/18590/john-carlson,2011-12,nhl,John Carlson,D,DEF,0,0.0,0
 Nikita Nikitin (D),totals,61,7,25,32,0.52,18,-10,https://www.eliteprospects.com/player/12241/nikita-nikitin,2011-12,nhl,Nikita Nikitin,D,DEF,0,0.0,0
 Ian White (D),Detroit Red Wings,77,7,25,32,0.42,22,23,https://www.eliteprospects.com/player/9519/ian-white,2011-12,nhl,Ian White,D,DEF,0,0.0,0
-Ryan McDonagh (D),New York Rangers,82,7,25,32,0.39,44,25,https://www.eliteprospects.com/player/11458/ryan-mcdonagh,2011-12,nhl,Ryan McDonagh,D,DEF,0,0.0,0
+Ryan McDonagh (D),New York Rangers,82,7,25,32,0.39,44,25,https://www.eliteprospects.com/player/11458/ryan-mcdonagh,2011-12,nhl,Ryan McDonagh,D,DEF,Ryan McDonagh,1.0,1
 Filip Kuba (D),Ottawa Senators,73,6,26,32,0.44,26,26,https://www.eliteprospects.com/player/8639/filip-kuba,2011-12,nhl,Filip Kuba,D,DEF,0,0.0,0
 Christian Ehrhoff (D),Buffalo Sabres,66,5,27,32,0.48,47,-2,https://www.eliteprospects.com/player/8581/christian-ehrhoff,2011-12,nhl,Christian Ehrhoff,D,DEF,0,0.0,0
 Mikael Samuelsson (RW),totals,54,14,17,31,0.57,20,1,https://www.eliteprospects.com/player/736/mikael-samuelsson,2011-12,nhl,Mikael Samuelsson,RW,FW,0,0.0,0
@@ -269,7 +269,7 @@ Marcus Krüger (C),Chicago Blackhawks,71,9,17,26,0.37,22,11,https://www.elitepro
 Nick Johnson (RW),Minnesota Wild,77,8,18,26,0.34,45,-6,https://www.eliteprospects.com/player/17765/nick-johnson,2011-12,nhl,Nick Johnson,RW,FW,0,0.0,0
 Kyle Quincey (D),totals,72,7,19,26,0.36,89,-1,https://www.eliteprospects.com/player/10366/kyle-quincey,2011-12,nhl,Kyle Quincey,D,DEF,0,0.0,0
 Fyodor Tyutin (D),Columbus Blue Jackets,66,5,21,26,0.39,49,-21,https://www.eliteprospects.com/player/8691/fyodor-tyutin,2011-12,nhl,Fyodor Tyutin,D,DEF,0,0.0,0
-Erik Johnson (D),Colorado Avalanche,73,4,22,26,0.36,26,-7,https://www.eliteprospects.com/player/9207/erik-johnson,2011-12,nhl,Erik Johnson,D,DEF,0,0.0,0
+Erik Johnson (D),Colorado Avalanche,73,4,22,26,0.36,26,-7,https://www.eliteprospects.com/player/9207/erik-johnson,2011-12,nhl,Erik Johnson,D,DEF,Erik Johnson,11.0,1
 Drew Miller (LW/RW),Detroit Red Wings,80,14,11,25,0.31,20,6,https://www.eliteprospects.com/player/11405/drew-miller,2011-12,nhl,Drew Miller,LW/RW,FW,0,0.0,0
 Mark Letestu (C),totals,62,11,14,25,0.40,8,-9,https://www.eliteprospects.com/player/11423/mark-letestu,2011-12,nhl,Mark Letestu,C,FW,0,0.0,0
 Sami Salo (D),Vancouver Canucks,69,9,16,25,0.36,10,7,https://www.eliteprospects.com/player/2672/sami-salo,2011-12,nhl,Sami Salo,D,DEF,0,0.0,0
@@ -329,7 +329,7 @@ Sheldon Souray (D),Dallas Stars,64,6,15,21,0.33,73,11,https://www.eliteprospects
 Jarret Stoll (C),Los Angeles Kings,78,6,15,21,0.27,60,2,https://www.eliteprospects.com/player/8895/jarret-stoll,2011-12,nhl,Jarret Stoll,C,FW,0,0.0,0
 Brad Stuart (D),Detroit Red Wings,81,6,15,21,0.26,29,16,https://www.eliteprospects.com/player/3669/brad-stuart,2011-12,nhl,Brad Stuart,D,DEF,0,0.0,0
 Cody Franson (D),Toronto Maple Leafs,57,5,16,21,0.37,22,-1,https://www.eliteprospects.com/player/10431/cody-franson,2011-12,nhl,Cody Franson,D,DEF,0,0.0,0
-Corey Potter (D),Edmonton Oilers,62,4,17,21,0.34,24,-16,https://www.eliteprospects.com/player/9404/corey-potter,2011-12,nhl,Corey Potter,D,DEF,0,0.0,0
+Corey Potter (D),Edmonton Oilers,62,4,17,21,0.34,24,-16,https://www.eliteprospects.com/player/9404/corey-potter,2011-12,nhl,Corey Potter,D,DEF,Corey Potter,2.0,1
 Kevin Klein (D),Nashville Predators,66,4,17,21,0.32,4,-8,https://www.eliteprospects.com/player/9507/kevin-klein,2011-12,nhl,Kevin Klein,D,DEF,0,0.0,0
 Radek Dvorak (RW),Dallas Stars,73,4,17,21,0.29,12,-16,https://www.eliteprospects.com/player/8599/radek-dvorak,2011-12,nhl,Radek Dvorak,RW,FW,0,0.0,0
 Matt Niskanen (D),Pittsburgh Penguins,75,4,17,21,0.28,47,9,https://www.eliteprospects.com/player/9214/matt-niskanen,2011-12,nhl,Matt Niskanen,D,DEF,0,0.0,0
@@ -361,7 +361,7 @@ Brayden Schenn (C/W),Philadelphia Flyers,54,12,6,18,0.33,34,-7,https://www.elite
 Matt D'Agostini (RW/LW),St. Louis Blues,55,9,9,18,0.33,27,12,https://www.eliteprospects.com/player/11721/matt-d-agostini,2011-12,nhl,Matt D'Agostini,RW/LW,FW,0,0.0,0
 Matt Stajan (C),Calgary Flames,61,8,10,18,0.30,29,-3,https://www.eliteprospects.com/player/8889/matt-stajan,2011-12,nhl,Matt Stajan,C,FW,0,0.0,0
 Matthew Lombardi (C),Toronto Maple Leafs,62,8,10,18,0.29,10,-19,https://www.eliteprospects.com/player/8999/matthew-lombardi,2011-12,nhl,Matthew Lombardi,C,FW,0,0.0,0
-Manny Malhotra (C),Vancouver Canucks,78,7,11,18,0.23,14,-11,https://www.eliteprospects.com/player/5528/manny-malhotra,2011-12,nhl,Manny Malhotra,C,FW,0,0.0,0
+Manny Malhotra (C),Vancouver Canucks,78,7,11,18,0.23,14,-11,https://www.eliteprospects.com/player/5528/manny-malhotra,2011-12,nhl,Manny Malhotra,C,FW,Manny Malhotra,36.0,1
 Mike Knuble (RW),Washington Capitals,72,6,12,18,0.25,32,-15,https://www.eliteprospects.com/player/4322/mike-knuble,2011-12,nhl,Mike Knuble,RW,FW,0,0.0,0
 Joel Ward (RW),Washington Capitals,73,6,12,18,0.25,20,12,https://www.eliteprospects.com/player/11014/joel-ward,2011-12,nhl,Joel Ward,RW,FW,0,0.0,0
 Nick Bonino (C/LW),Anaheim Ducks,50,5,13,18,0.36,8,1,https://www.eliteprospects.com/player/14686/nick-bonino,2011-12,nhl,Nick Bonino,C/LW,FW,0,0.0,0
@@ -378,7 +378,7 @@ Dustin Penner (LW),Los Angeles Kings,65,7,10,17,0.26,43,-7,https://www.elitepros
 Joni Pitkänen (D),Carolina Hurricanes,30,5,12,17,0.57,16,-15,https://www.eliteprospects.com/player/2697/joni-pitkanen,2011-12,nhl,Joni Pitkänen,D,DEF,0,0.0,0
 Jared Cowen (D),Ottawa Senators,82,5,12,17,0.21,56,-4,https://www.eliteprospects.com/player/12107/jared-cowen,2011-12,nhl,Jared Cowen,D,DEF,0,0.0,0
 Brandon Prust (LW/RW),New York Rangers,82,5,12,17,0.21,156,-1,https://www.eliteprospects.com/player/8920/brandon-prust,2011-12,nhl,Brandon Prust,LW/RW,FW,0,0.0,0
-Grant Clitsome (D),totals,63,4,13,17,0.27,32,-9,https://www.eliteprospects.com/player/15053/grant-clitsome,2011-12,nhl,Grant Clitsome,D,DEF,0,0.0,0
+Grant Clitsome (D),totals,63,4,13,17,0.27,32,-9,https://www.eliteprospects.com/player/15053/grant-clitsome,2011-12,nhl,Grant Clitsome,D,DEF,Grant Clitsome,1.0,1
 Deryk Engelland (D),Pittsburgh Penguins,73,4,13,17,0.23,56,10,https://www.eliteprospects.com/player/13406/deryk-engelland,2011-12,nhl,Deryk Engelland,D,DEF,0,0.0,0
 Andrew Desjardins (W/C),San Jose Sharks,76,4,13,17,0.22,47,4,https://www.eliteprospects.com/player/14631/andrew-desjardins,2011-12,nhl,Andrew Desjardins,W/C,FW,0,0.0,0
 Samuel Påhlsson (C),totals,80,4,13,17,0.21,34,-2,https://www.eliteprospects.com/player/732/samuel-pahlsson,2011-12,nhl,Samuel Påhlsson,C,FW,0,0.0,0
@@ -401,8 +401,8 @@ Josh Gorges (D),Montréal Canadiens,82,2,14,16,0.20,39,14,https://www.eliteprosp
 Brian Lee (D),totals,55,1,15,16,0.29,35,-8,https://www.eliteprospects.com/player/9218/brian-lee,2011-12,nhl,Brian Lee,D,DEF,0,0.0,0
 Andy Greene (D),New Jersey Devils,56,1,15,16,0.29,16,3,https://www.eliteprospects.com/player/9169/andy-greene,2011-12,nhl,Andy Greene,D,DEF,0,0.0,0
 Mike Weaver (D),Florida Panthers,82,0,16,16,0.20,14,-2,https://www.eliteprospects.com/player/8814/mike-weaver,2011-12,nhl,Mike Weaver,D,DEF,Mike Weaver,1.0,1
-Nate Thompson (C),Tampa Bay Lightning,68,9,6,15,0.22,21,-23,https://www.eliteprospects.com/player/10261/nate-thompson,2011-12,nhl,Nate Thompson,C,FW,0,0.0,0
-Daniel Paille (LW),Boston Bruins,69,9,6,15,0.22,15,-5,https://www.eliteprospects.com/player/9510/daniel-paille,2011-12,nhl,Daniel Paille,LW,FW,0,0.0,0
+Nate Thompson (C),Tampa Bay Lightning,68,9,6,15,0.22,21,-23,https://www.eliteprospects.com/player/10261/nate-thompson,2011-12,nhl,Nate Thompson,C,FW,Nate Thompson,1.0,1
+Daniel Paille (LW),Boston Bruins,69,9,6,15,0.22,15,-5,https://www.eliteprospects.com/player/9510/daniel-paille,2011-12,nhl,Daniel Paille,LW,FW,Daniel Paille,2.0,1
 T.J. Galiardi (C/LW),totals,69,9,6,15,0.22,53,-8,https://www.eliteprospects.com/player/12464/t.j.-galiardi,2011-12,nhl,T.J. Galiardi,C/LW,FW,0,0.0,0
 Brian Gionta (RW),Montréal Canadiens,31,8,7,15,0.48,16,-7,https://www.eliteprospects.com/player/9048/brian-gionta,2011-12,nhl,Brian Gionta,RW,FW,0,0.0,0
 Matt Frattin (LW/RW),Toronto Maple Leafs,56,8,7,15,0.27,25,-4,https://www.eliteprospects.com/player/12534/matt-frattin,2011-12,nhl,Matt Frattin,LW/RW,FW,0,0.0,0
@@ -446,7 +446,7 @@ Darroll Powe (C/W),Minnesota Wild,82,6,7,13,0.16,57,-20,https://www.eliteprospec
 Antti Miettinen (W/C),Winnipeg Jets,45,5,8,13,0.29,0,-5,https://www.eliteprospects.com/player/2698/antti-miettinen,2011-12,nhl,Antti Miettinen,W/C,FW,0,0.0,0
 Shawn Thornton (RW),Boston Bruins,81,5,8,13,0.16,154,-7,https://www.eliteprospects.com/player/11339/shawn-thornton,2011-12,nhl,Shawn Thornton,RW,FW,Shawn Thornton,2.0,1
 Stefan Elliott (D),Colorado Avalanche,39,4,9,13,0.33,8,2,https://www.eliteprospects.com/player/15735/stefan-elliott,2011-12,nhl,Stefan Elliott,D,DEF,0,0.0,0
-Jason Demers (D),San Jose Sharks,57,4,9,13,0.23,22,-8,https://www.eliteprospects.com/player/12154/jason-demers,2011-12,nhl,Jason Demers,D,DEF,0,0.0,0
+Jason Demers (D),San Jose Sharks,57,4,9,13,0.23,22,-8,https://www.eliteprospects.com/player/12154/jason-demers,2011-12,nhl,Jason Demers,D,DEF,Jason Demers,4.0,1
 Rostislav Klesla (D),Phoenix Coyotes,65,3,10,13,0.20,54,13,https://www.eliteprospects.com/player/8622/rostislav-klesla,2011-12,nhl,Rostislav Klesla,D,DEF,0,0.0,0
 Ed Jovanovski (D),Florida Panthers,66,3,10,13,0.20,31,-11,https://www.eliteprospects.com/player/9035/ed-jovanovski,2011-12,nhl,Ed Jovanovski,D,DEF,0,0.0,0
 Andrej Sekera (D),Buffalo Sabres,69,3,10,13,0.19,18,3,https://www.eliteprospects.com/player/9249/andrej-sekera,2011-12,nhl,Andrej Sekera,D,DEF,0,0.0,0
@@ -466,7 +466,7 @@ Patrick Dwyer (RW),Carolina Hurricanes,73,5,7,12,0.16,23,0,https://www.elitepros
 Kyle Clifford (LW),Los Angeles Kings,81,5,7,12,0.15,123,-5,https://www.eliteprospects.com/player/15480/kyle-clifford,2011-12,nhl,Kyle Clifford,LW,FW,0,0.0,0
 Wojtek Wolski (LW/RW),totals,31,4,8,12,0.39,2,-5,https://www.eliteprospects.com/player/8832/wojtek-wolski,2011-12,nhl,Wojtek Wolski,LW/RW,FW,0,0.0,0
 Ryan Shannon (C/RW),Tampa Bay Lightning,45,4,8,12,0.27,10,-11,https://www.eliteprospects.com/player/9443/ryan-shannon,2011-12,nhl,Ryan Shannon,C/RW,FW,0,0.0,0
-Tom Kostopoulos (RW/LW),Calgary Flames,81,4,8,12,0.15,57,-15,https://www.eliteprospects.com/player/9021/tom-kostopoulos,2011-12,nhl,Tom Kostopoulos,RW/LW,FW,0,0.0,0
+Tom Kostopoulos (RW/LW),Calgary Flames,81,4,8,12,0.15,57,-15,https://www.eliteprospects.com/player/9021/tom-kostopoulos,2011-12,nhl,Tom Kostopoulos,RW/LW,FW,Tom Kostopoulos,2.0,1
 Marco Scandella (D),Minnesota Wild,63,3,9,12,0.19,19,-22,https://www.eliteprospects.com/player/17520/marco-scandella,2011-12,nhl,Marco Scandella,D,DEF,0,0.0,0
 Scott Hannan (D),Calgary Flames,78,2,10,12,0.15,38,-10,https://www.eliteprospects.com/player/9041/scott-hannan,2011-12,nhl,Scott Hannan,D,DEF,0,0.0,0
 Chris Pronger (D),Philadelphia Flyers,13,1,11,12,0.92,10,1,https://www.eliteprospects.com/player/8538/chris-pronger,2011-12,nhl,Chris Pronger,D,DEF,Chris Pronger,48.0,1
@@ -511,7 +511,7 @@ Ron Hainsey (D),Winnipeg Jets,56,0,10,10,0.18,23,9,https://www.eliteprospects.co
 Guillaume Latendresse (LW/RW),Minnesota Wild,16,5,4,9,0.56,20,6,https://www.eliteprospects.com/player/9194/guillaume-latendresse,2011-12,nhl,Guillaume Latendresse,LW/RW,FW,0,0.0,0
 Eric Wellwood (LW/C),Philadelphia Flyers,24,5,4,9,0.38,2,12,https://www.eliteprospects.com/player/23008/eric-wellwood,2011-12,nhl,Eric Wellwood,LW/C,FW,0,0.0,0
 Jimmy Hayes (RW/C),Chicago Blackhawks,31,5,4,9,0.29,16,-3,https://www.eliteprospects.com/player/11463/jimmy-hayes,2011-12,nhl,Jimmy Hayes,RW/C,FW,0,0.0,0
-Lennart Petrell (LW/RW),Edmonton Oilers,60,4,5,9,0.15,45,-10,https://www.eliteprospects.com/player/4279/lennart-petrell,2011-12,nhl,Lennart Petrell,LW/RW,FW,0,0.0,0
+Lennart Petrell (LW/RW),Edmonton Oilers,60,4,5,9,0.15,45,-10,https://www.eliteprospects.com/player/4279/lennart-petrell,2011-12,nhl,Lennart Petrell,LW/RW,FW,Lennart Petrell,4.0,1
 Matt Hendricks (LW/C),Washington Capitals,78,4,5,9,0.12,95,-6,https://www.eliteprospects.com/player/11554/matt-hendricks,2011-12,nhl,Matt Hendricks,LW/C,FW,0,0.0,0
 Alexander Sulzer (D),totals,27,3,6,9,0.33,8,8,https://www.eliteprospects.com/player/12396/alexander-sulzer,2011-12,nhl,Alexander Sulzer,D,DEF,0,0.0,0
 Tommy Wingels (C/W),San Jose Sharks,33,3,6,9,0.27,18,-1,https://www.eliteprospects.com/player/19230/tommy-wingels,2011-12,nhl,Tommy Wingels,C/W,FW,0,0.0,0
@@ -531,7 +531,7 @@ Jochen Hecht (C/LW),Buffalo Sabres,22,4,4,8,0.36,6,1,https://www.eliteprospects.
 David Ullström (C/W),New York Islanders,29,4,4,8,0.28,6,-2,https://www.eliteprospects.com/player/6913/david-ullstrom,2011-12,nhl,David Ullström,C/W,FW,0,0.0,0
 Cody Eakin (C),Washington Capitals,30,4,4,8,0.27,4,2,https://www.eliteprospects.com/player/23166/cody-eakin,2011-12,nhl,Cody Eakin,C,FW,0,0.0,0
 Dale Weise (RW),Vancouver Canucks,68,4,4,8,0.12,81,-1,https://www.eliteprospects.com/player/15727/dale-weise,2011-12,nhl,Dale Weise,RW,FW,0,0.0,0
-Ryan Carter (C),totals,72,4,4,8,0.11,90,-13,https://www.eliteprospects.com/player/11746/ryan-carter,2011-12,nhl,Ryan Carter,C,FW,0,0.0,0
+Ryan Carter (C),totals,72,4,4,8,0.11,90,-13,https://www.eliteprospects.com/player/11746/ryan-carter,2011-12,nhl,Ryan Carter,C,FW,Ryan Carter,4.0,1
 Corey Tropp (RW),Buffalo Sabres,34,3,5,8,0.24,20,0,https://www.eliteprospects.com/player/12187/corey-tropp,2011-12,nhl,Corey Tropp,RW,FW,0,0.0,0
 Blair Jones (C/RW),totals,43,3,5,8,0.19,18,-1,https://www.eliteprospects.com/player/11041/blair-jones,2011-12,nhl,Blair Jones,C/RW,FW,0,0.0,0
 Matt Bradley (RW/LW),Florida Panthers,45,3,5,8,0.18,31,-3,https://www.eliteprospects.com/player/9093/matt-bradley,2011-12,nhl,Matt Bradley,RW/LW,FW,0,0.0,0
@@ -576,7 +576,7 @@ Matt Taormina (D),New Jersey Devils,30,1,6,7,0.23,4,6,https://www.eliteprospects
 David Rundblad (D),totals,30,1,6,7,0.23,6,-12,https://www.eliteprospects.com/player/7069/david-rundblad,2011-12,nhl,David Rundblad,D,DEF,0,0.0,0
 Marc Methot (D),Columbus Blue Jackets,46,1,6,7,0.15,24,-11,https://www.eliteprospects.com/player/10993/marc-methot,2011-12,nhl,Marc Methot,D,DEF,0,0.0,0
 Keith Ballard (D),Vancouver Canucks,47,1,6,7,0.15,64,0,https://www.eliteprospects.com/player/9072/keith-ballard,2011-12,nhl,Keith Ballard,D,DEF,0,0.0,0
-Cory Sarich (D),Calgary Flames,62,1,6,7,0.11,66,1,https://www.eliteprospects.com/player/8867/cory-sarich,2011-12,nhl,Cory Sarich,D,DEF,0,0.0,0
+Cory Sarich (D),Calgary Flames,62,1,6,7,0.11,66,1,https://www.eliteprospects.com/player/8867/cory-sarich,2011-12,nhl,Cory Sarich,D,DEF,Cory Sarich,2.0,1
 Ryan O'Byrne (D),Colorado Avalanche,74,1,6,7,0.09,57,-5,https://www.eliteprospects.com/player/11722/ryan-o-byrne,2011-12,nhl,Ryan O'Byrne,D,DEF,0,0.0,0
 Tim Jackman (RW),Calgary Flames,75,1,6,7,0.09,94,-21,https://www.eliteprospects.com/player/10322/tim-jackman,2011-12,nhl,Tim Jackman,RW,FW,0,0.0,0
 Nick Schultz (D),totals,82,1,6,7,0.09,40,-12,https://www.eliteprospects.com/player/8597/nick-schultz,2011-12,nhl,Nick Schultz,D,DEF,0,0.0,0
@@ -617,14 +617,14 @@ Blake Geoffrion (C/LW),totals,35,2,3,5,0.14,27,0,https://www.eliteprospects.com/
 Andrew Gordon (RW),Anaheim Ducks,37,2,3,5,0.14,6,-10,https://www.eliteprospects.com/player/11449/andrew-gordon,2011-12,nhl,Andrew Gordon,RW,FW,0,0.0,0
 Toby Petersen (C),Dallas Stars,39,2,3,5,0.13,6,-7,https://www.eliteprospects.com/player/8915/toby-petersen,2011-12,nhl,Toby Petersen,C,FW,0,0.0,0
 Steve Eminger (D),New York Rangers,42,2,3,5,0.12,28,0,https://www.eliteprospects.com/player/9147/steve-eminger,2011-12,nhl,Steve Eminger,D,DEF,0,0.0,0
-Marc Staal (D),New York Rangers,46,2,3,5,0.11,16,-7,https://www.eliteprospects.com/player/9183/marc-staal,2011-12,nhl,Marc Staal,D,DEF,0,0.0,0
+Marc Staal (D),New York Rangers,46,2,3,5,0.11,16,-7,https://www.eliteprospects.com/player/9183/marc-staal,2011-12,nhl,Marc Staal,D,DEF,Marc Staal,27.0,1
 Krys Barch (RW/LW),totals,51,2,3,5,0.10,114,0,https://www.eliteprospects.com/player/10997/krys-barch,2011-12,nhl,Krys Barch,RW/LW,FW,0,0.0,0
 Joe Colborne (C/W),Toronto Maple Leafs,10,1,4,5,0.50,4,2,https://www.eliteprospects.com/player/18593/joe-colborne,2011-12,nhl,Joe Colborne,C/W,FW,0,0.0,0
 Erik Gustafsson (D),Philadelphia Flyers,30,1,4,5,0.17,2,12,https://www.eliteprospects.com/player/5545/erik-gustafsson,2011-12,nhl,Erik Gustafsson,D,DEF,0,0.0,0
 Ben Lovejoy (D),Pittsburgh Penguins,34,1,4,5,0.15,13,3,https://www.eliteprospects.com/player/13404/ben-lovejoy,2011-12,nhl,Ben Lovejoy,D,DEF,0,0.0,0
 Darryl Boyce (C/W),totals,37,1,4,5,0.14,35,-8,https://www.eliteprospects.com/player/14034/darryl-boyce,2011-12,nhl,Darryl Boyce,C/W,FW,0,0.0,0
 Aaron Palushaj (RW/LW),Montréal Canadiens,38,1,4,5,0.13,8,1,https://www.eliteprospects.com/player/12513/aaron-palushaj,2011-12,nhl,Aaron Palushaj,RW/LW,FW,0,0.0,0
-Mike Komisarek (D),Toronto Maple Leafs,45,1,4,5,0.11,41,-13,https://www.eliteprospects.com/player/9019/mike-komisarek,2011-12,nhl,Mike Komisarek,D,DEF,0,0.0,0
+Mike Komisarek (D),Toronto Maple Leafs,45,1,4,5,0.11,41,-13,https://www.eliteprospects.com/player/9019/mike-komisarek,2011-12,nhl,Mike Komisarek,D,DEF,Mike Komisarek,2.0,1
 Clayton Stoner (D),Minnesota Wild,51,1,4,5,0.10,62,3,https://www.eliteprospects.com/player/11361/clayton-stoner,2011-12,nhl,Clayton Stoner,D,DEF,0,0.0,0
 Mike Weber (D),Buffalo Sabres,51,1,4,5,0.10,64,-19,https://www.eliteprospects.com/player/11231/mike-weber,2011-12,nhl,Mike Weber,D,DEF,0,0.0,0
 Warren Peters (C/LW),Minnesota Wild,58,1,4,5,0.09,54,-15,https://www.eliteprospects.com/player/11744/warren-peters,2011-12,nhl,Warren Peters,C/LW,FW,0,0.0,0
@@ -681,9 +681,9 @@ Sami Lepistö (D),Chicago Blackhawks,26,1,2,3,0.12,4,3,https://www.eliteprospect
 Lance Bouma (LW/C),Calgary Flames,27,1,2,3,0.11,11,-5,https://www.eliteprospects.com/player/16499/lance-bouma,2011-12,nhl,Lance Bouma,LW/C,FW,0,0.0,0
 Colby Armstrong (RW/LW),Toronto Maple Leafs,29,1,2,3,0.10,9,-8,https://www.eliteprospects.com/player/9067/colby-armstrong,2011-12,nhl,Colby Armstrong,RW/LW,FW,0,0.0,0
 Matt Carkner (D),Ottawa Senators,29,1,2,3,0.10,33,0,https://www.eliteprospects.com/player/9107/matt-carkner,2011-12,nhl,Matt Carkner,D,DEF,0,0.0,0
-B.J. Crombeen (RW),St. Louis Blues,40,1,2,3,0.08,71,-2,https://www.eliteprospects.com/player/9149/b.j.-crombeen,2011-12,nhl,B.J. Crombeen,RW,FW,0,0.0,0
+B.J. Crombeen (RW),St. Louis Blues,40,1,2,3,0.08,71,-2,https://www.eliteprospects.com/player/9149/b.j.-crombeen,2011-12,nhl,B.J. Crombeen,RW,FW,B.J. Crombeen,1.0,1
 Brendan Mikkelson (D),Tampa Bay Lightning,41,1,2,3,0.07,13,-4,https://www.eliteprospects.com/player/9355/brendan-mikkelson,2011-12,nhl,Brendan Mikkelson,D,DEF,0,0.0,0
-Darcy Hordichuk (LW),Edmonton Oilers,43,1,2,3,0.07,64,-3,https://www.eliteprospects.com/player/9056/darcy-hordichuk,2011-12,nhl,Darcy Hordichuk,LW,FW,0,0.0,0
+Darcy Hordichuk (LW),Edmonton Oilers,43,1,2,3,0.07,64,-3,https://www.eliteprospects.com/player/9056/darcy-hordichuk,2011-12,nhl,Darcy Hordichuk,LW,FW,Darcy Hordichuk,2.0,1
 Theo Peckham (D),Edmonton Oilers,54,1,2,3,0.06,80,0,https://www.eliteprospects.com/player/11266/theo-peckham,2011-12,nhl,Theo Peckham,D,DEF,0,0.0,0
 Jay Pandolfo (LW),New York Islanders,62,1,2,3,0.05,8,-14,https://www.eliteprospects.com/player/8704/jay-pandolfo,2011-12,nhl,Jay Pandolfo,LW,FW,0,0.0,0
 Brett Bulmer (RW/LW),Minnesota Wild,9,0,3,3,0.33,6,1,https://www.eliteprospects.com/player/36711/brett-bulmer,2011-12,nhl,Brett Bulmer,RW/LW,FW,0,0.0,0
@@ -716,7 +716,7 @@ Jordie Benn (D),Dallas Stars,3,0,2,2,0.67,0,1,https://www.eliteprospects.com/pla
 Jeff Taffe (C),Minnesota Wild,5,0,2,2,0.40,0,2,https://www.eliteprospects.com/player/9385/jeff-taffe,2011-12,nhl,Jeff Taffe,C,FW,0,0.0,0
 Brandon Pirri (C/LW),Chicago Blackhawks,5,0,2,2,0.40,0,2,https://www.eliteprospects.com/player/33898/brandon-pirri,2011-12,nhl,Brandon Pirri,C/LW,FW,0,0.0,0
 Brett MacLean (RW),Winnipeg Jets,5,0,2,2,0.40,2,1,https://www.eliteprospects.com/player/11108/brett-maclean,2011-12,nhl,Brett MacLean,RW,FW,0,0.0,0
-Jason Zucker (LW/RW),Minnesota Wild,6,0,2,2,0.33,2,-2,https://www.eliteprospects.com/player/20726/jason-zucker,2011-12,nhl,Jason Zucker,LW/RW,FW,0,0.0,0
+Jason Zucker (LW/RW),Minnesota Wild,6,0,2,2,0.33,2,-2,https://www.eliteprospects.com/player/20726/jason-zucker,2011-12,nhl,Jason Zucker,LW/RW,FW,Jason Zucker,2.0,1
 Mike Duco (W/C),Vancouver Canucks,6,0,2,2,0.33,5,1,https://www.eliteprospects.com/player/18616/mike-duco,2011-12,nhl,Mike Duco,W/C,FW,0,0.0,0
 Brad Malone (C/LW),Colorado Avalanche,9,0,2,2,0.22,0,1,https://www.eliteprospects.com/player/12188/brad-malone,2011-12,nhl,Brad Malone,C/LW,FW,0,0.0,0
 Peter Harrold (D/W),New Jersey Devils,11,0,2,2,0.18,0,0,https://www.eliteprospects.com/player/9043/peter-harrold,2011-12,nhl,Peter Harrold,D/W,DEF,0,0.0,0
@@ -753,7 +753,7 @@ T.J. Brennan (D),Buffalo Sabres,11,1,0,1,0.09,6,0,https://www.eliteprospects.com
 Aaron Volpatti (LW/RW),Vancouver Canucks,23,1,0,1,0.04,37,-2,https://www.eliteprospects.com/player/39059/aaron-volpatti,2011-12,nhl,Aaron Volpatti,LW/RW,FW,0,0.0,0
 Paul Bissonnette (LW/D),Phoenix Coyotes,31,1,0,1,0.03,41,-4,https://www.eliteprospects.com/player/9473/paul-bissonnette,2011-12,nhl,Paul Bissonnette,LW/D,DEF,0,0.0,0
 Nino Niederreiter (RW/LW),New York Islanders,55,1,0,1,0.02,12,-29,https://www.eliteprospects.com/player/17679/nino-niederreiter,2011-12,nhl,Nino Niederreiter,RW/LW,FW,0,0.0,0
-Brad Staubitz (RW),totals,62,1,0,1,0.02,121,-5,https://www.eliteprospects.com/player/10642/brad-staubitz,2011-12,nhl,Brad Staubitz,RW,FW,0,0.0,0
+Brad Staubitz (RW),totals,62,1,0,1,0.02,121,-5,https://www.eliteprospects.com/player/10642/brad-staubitz,2011-12,nhl,Brad Staubitz,RW,FW,Brad Staubitz,2.0,1
 Carl Sneep (D),Pittsburgh Penguins,1,0,1,1,1.00,0,1,https://www.eliteprospects.com/player/11431/carl-sneep,2011-12,nhl,Carl Sneep,D,DEF,0,0.0,0
 Chay Genoway (D),Minnesota Wild,1,0,1,1,1.00,0,0,https://www.eliteprospects.com/player/24398/chay-genoway,2011-12,nhl,Chay Genoway,D,DEF,0,0.0,0
 Philippe Cornet (W/C),Edmonton Oilers,2,0,1,1,0.50,0,0,https://www.eliteprospects.com/player/19051/philippe-cornet,2011-12,nhl,Philippe Cornet,W/C,FW,0,0.0,0
@@ -771,6 +771,7 @@ Ryan O'Marra (RW/C),totals,9,0,1,1,0.11,4,-1,https://www.eliteprospects.com/play
 Brian Strait (D),Pittsburgh Penguins,9,0,1,1,0.11,4,-2,https://www.eliteprospects.com/player/9313/brian-strait,2011-12,nhl,Brian Strait,D,DEF,0,0.0,0
 Doug Janik (D),Detroit Red Wings,9,0,1,1,0.11,6,2,https://www.eliteprospects.com/player/9027/doug-janik,2011-12,nhl,Doug Janik,D,DEF,0,0.0,0
 André Deveaux (RW/C),New York Rangers,9,0,1,1,0.11,29,3,https://www.eliteprospects.com/player/11755/andre-deveaux,2011-12,nhl,André Deveaux,RW/C,FW,0,0.0,0
+Patrick Eaves (RW/LW),Detroit Red Wings,10,0,1,1,0.10,2,0,https://www.eliteprospects.com/player/9144/patrick-eaves,2011-12,nhl,Patrick Eaves,RW/LW,FW,Patrick Eaves,1.0,1
 Patrick Eaves (RW/LW),Detroit Red Wings,10,0,1,1,0.10,2,0,https://www.eliteprospects.com/player/9144/patrick-eaves,2011-12,nhl,Patrick Eaves,RW/LW,FW,Patrick Eaves,1.0,1
 Krys Kolanos (C/W),Calgary Flames,13,0,1,1,0.08,2,-1,https://www.eliteprospects.com/player/8716/krys-kolanos,2011-12,nhl,Krys Kolanos,C/W,FW,0,0.0,0
 Jason Jaffray (LW/C),Winnipeg Jets,13,0,1,1,0.08,7,-1,https://www.eliteprospects.com/player/11509/jason-jaffray,2011-12,nhl,Jason Jaffray,LW/C,FW,0,0.0,0

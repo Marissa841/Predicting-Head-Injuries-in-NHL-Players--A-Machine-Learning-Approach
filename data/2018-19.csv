@@ -52,7 +52,7 @@ Morgan Rielly (D),Toronto Maple Leafs,82,20,52,72,0.88,14,24,https://www.elitepr
 Mike Hoffman (LW/C),Florida Panthers,82,36,34,70,0.85,30,-24,https://www.eliteprospects.com/player/18800/mike-hoffman,2018-19,nhl,Mike Hoffman,LW/C,FW,0,0.0,0
 Matt Duchene (C/RW),totals,73,31,39,70,0.96,8,-3,https://www.eliteprospects.com/player/12571/matt-duchene,2018-19,nhl,Matt Duchene,C/RW,FW,0,0.0,0
 Yevgeni Dadonov (RW/LW),Florida Panthers,82,28,42,70,0.85,8,-6,https://www.eliteprospects.com/player/11859/yevgeni-dadonov,2018-19,nhl,Yevgeni Dadonov,RW/LW,FW,0,0.0,0
-Logan Couture (C),San Jose Sharks,81,27,43,70,0.86,22,-6,https://www.eliteprospects.com/player/11109/logan-couture,2018-19,nhl,Logan Couture,C,FW,0,0.0,0
+Logan Couture (C),San Jose Sharks,81,27,43,70,0.86,22,-6,https://www.eliteprospects.com/player/11109/logan-couture,2018-19,nhl,Logan Couture,C,FW,Logan Couture,1.0,1
 John Carlson (D),Washington Capitals,80,13,57,70,0.88,34,21,https://www.eliteprospects.com/player/18590/john-carlson,2018-19,nhl,John Carlson,D,DEF,0,0.0,0
 Cam Atkinson (RW),Columbus Blue Jackets,80,41,28,69,0.86,20,3,https://www.eliteprospects.com/player/19166/cam-atkinson,2018-19,nhl,Cam Atkinson,RW,FW,0,0.0,0
 Ryan Nugent-Hopkins (C),Edmonton Oilers,82,28,41,69,0.84,26,-13,https://www.eliteprospects.com/player/25636/ryan-nugent-hopkins,2018-19,nhl,Ryan Nugent-Hopkins,C,FW,0,0.0,0
@@ -155,12 +155,13 @@ Jake DeBrusk (LW),Boston Bruins,68,27,15,42,0.62,18,2,https://www.eliteprospects
 Jason Zucker (LW/RW),Minnesota Wild,81,21,21,42,0.52,28,-9,https://www.eliteprospects.com/player/20726/jason-zucker,2018-19,nhl,Jason Zucker,LW/RW,FW,0,0.0,0
 Adam Henrique (C/LW),Anaheim Ducks,82,18,24,42,0.51,24,-5,https://www.eliteprospects.com/player/19043/adam-henrique,2018-19,nhl,Adam Henrique,C/LW,FW,0,0.0,0
 Bobby Ryan (RW/LW),Ottawa Senators,78,15,27,42,0.54,35,-29,https://www.eliteprospects.com/player/9210/bobby-ryan,2018-19,nhl,Bobby Ryan,RW/LW,FW,0,0.0,0
-Alexander Kerfoot (C/LW),Colorado Avalanche,78,15,27,42,0.54,38,-9,https://www.eliteprospects.com/player/59968/alexander-kerfoot,2018-19,nhl,Alexander Kerfoot,C/LW,FW,0,0.0,0
+Alexander Kerfoot (C/LW),Colorado Avalanche,78,15,27,42,0.54,38,-9,https://www.eliteprospects.com/player/59968/alexander-kerfoot,2018-19,nhl,Alexander Kerfoot,C/LW,FW,Alexander Kerfoot,3.0,1
 Paul Stastny (C),Vegas Golden Knights,50,13,29,42,0.84,30,14,https://www.eliteprospects.com/player/10212/paul-stastny,2018-19,nhl,Paul Stastny,C,FW,0,0.0,0
-Cody Eakin (C),Vegas Golden Knights,78,22,19,41,0.53,16,19,https://www.eliteprospects.com/player/23166/cody-eakin,2018-19,nhl,Cody Eakin,C,FW,0,0.0,0
+Cody Eakin (C),Vegas Golden Knights,78,22,19,41,0.53,16,19,https://www.eliteprospects.com/player/23166/cody-eakin,2018-19,nhl,Cody Eakin,C,FW,Cody Eakin,17.0,1
 Zach Hyman (W/C),Toronto Maple Leafs,71,21,20,41,0.58,65,16,https://www.eliteprospects.com/player/75045/zach-hyman,2018-19,nhl,Zach Hyman,W/C,FW,0,0.0,0
 Alex Galchenyuk (C/LW),Arizona Coyotes,72,19,22,41,0.57,34,-19,https://www.eliteprospects.com/player/74611/alex-galchenyuk,2018-19,nhl,Alex Galchenyuk,C/LW,FW,0,0.0,0
 Bryan Little (C),Winnipeg Jets,82,15,26,41,0.50,26,-12,https://www.eliteprospects.com/player/10426/bryan-little,2018-19,nhl,Bryan Little,C,FW,Bryan Little,9.0,1
+Bryan Little (C),Winnipeg Jets,82,15,26,41,0.50,26,-12,https://www.eliteprospects.com/player/10426/bryan-little,2018-19,nhl,Bryan Little,C,FW,Bryan Little,55.0,1
 Colin White (C/RW),Ottawa Senators,71,14,27,41,0.58,24,-24,https://www.eliteprospects.com/player/183810/colin-white,2018-19,nhl,Colin White,C/RW,FW,0,0.0,0
 Alex Pietrangelo (D),St. Louis Blues,71,13,28,41,0.58,22,2,https://www.eliteprospects.com/player/11317/alex-pietrangelo,2018-19,nhl,Alex Pietrangelo,D,DEF,0,0.0,0
 Darnell Nurse (D),Edmonton Oilers,82,10,31,41,0.50,87,-5,https://www.eliteprospects.com/player/97352/darnell-nurse,2018-19,nhl,Darnell Nurse,D,DEF,0,0.0,0
@@ -246,7 +247,7 @@ Valtteri Filppula (C/LW),New York Islanders,72,17,14,31,0.43,16,19,https://www.e
 Jason Pominville (RW),Buffalo Sabres,73,16,15,31,0.42,4,-4,https://www.eliteprospects.com/player/8809/jason-pominville,2018-19,nhl,Jason Pominville,RW,FW,0,0.0,0
 Paul Byron (LW/C),Montréal Canadiens,56,15,16,31,0.55,17,16,https://www.eliteprospects.com/player/15036/paul-byron,2018-19,nhl,Paul Byron,LW/C,FW,0,0.0,0
 Oskar Sundqvist (C),St. Louis Blues,74,14,17,31,0.42,22,-1,https://www.eliteprospects.com/player/41621/oskar-sundqvist,2018-19,nhl,Oskar Sundqvist,C,FW,0,0.0,0
-Nolan Patrick (C),Philadelphia Flyers,72,13,18,31,0.43,27,-8,https://www.eliteprospects.com/player/201274/nolan-patrick,2018-19,nhl,Nolan Patrick,C,FW,0,0.0,0
+Nolan Patrick (C),Philadelphia Flyers,72,13,18,31,0.43,27,-8,https://www.eliteprospects.com/player/201274/nolan-patrick,2018-19,nhl,Nolan Patrick,C,FW,Nolan Patrick,69.0,1
 Vladislav Namestnikov (C/LW),New York Rangers,78,11,20,31,0.40,44,-7,https://www.eliteprospects.com/player/39029/vladislav-namestnikov,2018-19,nhl,Vladislav Namestnikov,C/LW,FW,0,0.0,0
 Artturi Lehkonen (LW),Montréal Canadiens,82,11,20,31,0.38,32,10,https://www.eliteprospects.com/player/43584/artturi-lehkonen,2018-19,nhl,Artturi Lehkonen,LW,FW,0,0.0,0
 Nick Ritchie (LW),Anaheim Ducks,60,9,22,31,0.52,82,6,https://www.eliteprospects.com/player/99036/nick-ritchie,2018-19,nhl,Nick Ritchie,LW,FW,0,0.0,0
@@ -309,7 +310,7 @@ Ivan Barbashev (C/W),St. Louis Blues,80,14,12,26,0.33,17,-4,https://www.elitepro
 Mathieu Joseph (RW/LW),Tampa Bay Lightning,70,13,13,26,0.37,26,5,https://www.eliteprospects.com/player/227640/mathieu-joseph,2018-19,nhl,Mathieu Joseph,RW/LW,FW,0,0.0,0
 Ryan Hartman (RW/C),totals,83,12,14,26,0.31,74,1,https://www.eliteprospects.com/player/90345/ryan-hartman,2018-19,nhl,Ryan Hartman,RW/C,FW,0,0.0,0
 Tyson Jost (C),Colorado Avalanche,70,11,15,26,0.37,14,-2,https://www.eliteprospects.com/player/148111/tyson-jost,2018-19,nhl,Tyson Jost,C,FW,0,0.0,0
-Matt Calvert (LW/RW),Colorado Avalanche,82,11,15,26,0.32,58,-10,https://www.eliteprospects.com/player/17025/matt-calvert,2018-19,nhl,Matt Calvert,LW/RW,FW,0,0.0,0
+Matt Calvert (LW/RW),Colorado Avalanche,82,11,15,26,0.32,58,-10,https://www.eliteprospects.com/player/17025/matt-calvert,2018-19,nhl,Matt Calvert,LW/RW,FW,Matt Calvert,6.0,1
 Calle Järnkrok (C/W),Nashville Predators,79,10,16,26,0.33,12,13,https://www.eliteprospects.com/player/6020/calle-jarnkrok,2018-19,nhl,Calle Järnkrok,C/W,FW,0,0.0,0
 Brock McGinn (LW/RW),Carolina Hurricanes,82,10,16,26,0.32,20,10,https://www.eliteprospects.com/player/76486/brock-mcginn,2018-19,nhl,Brock McGinn,LW/RW,FW,0,0.0,0
 Cody Ceci (D),Ottawa Senators,74,7,19,26,0.35,18,-22,https://www.eliteprospects.com/player/45584/cody-ceci,2018-19,nhl,Cody Ceci,D,DEF,0,0.0,0
@@ -371,7 +372,7 @@ Jason Dickinson (C/LW),Dallas Stars,67,6,16,22,0.33,23,9,https://www.eliteprospe
 Jordie Benn (D),Montréal Canadiens,81,5,17,22,0.27,39,15,https://www.eliteprospects.com/player/19742/jordie-benn,2018-19,nhl,Jordie Benn,D,DEF,0,0.0,0
 Dylan DeMelo (D),Ottawa Senators,77,4,18,22,0.29,32,-1,https://www.eliteprospects.com/player/45603/dylan-demelo,2018-19,nhl,Dylan DeMelo,D,DEF,0,0.0,0
 Brenden Dillon (D),San Jose Sharks,82,1,21,22,0.27,61,19,https://www.eliteprospects.com/player/23790/brenden-dillon,2018-19,nhl,Brenden Dillon,D,DEF,0,0.0,0
-Brendan Perlini (LW/C),totals,68,14,7,21,0.31,28,-17,https://www.eliteprospects.com/player/186992/brendan-perlini,2018-19,nhl,Brendan Perlini,LW/C,FW,0,0.0,0
+Brendan Perlini (LW/C),totals,68,14,7,21,0.31,28,-17,https://www.eliteprospects.com/player/186992/brendan-perlini,2018-19,nhl,Brendan Perlini,LW/C,FW,Brendan Perlini,1.0,1
 Austin Wagner (LW/C),Los Angeles Kings,62,12,9,21,0.34,16,2,https://www.eliteprospects.com/player/161117/austin-wagner,2018-19,nhl,Austin Wagner,LW/C,FW,0,0.0,0
 Troy Brouwer (RW/LW),Florida Panthers,75,12,9,21,0.28,47,-6,https://www.eliteprospects.com/player/10669/troy-brouwer,2018-19,nhl,Troy Brouwer,RW/LW,FW,0,0.0,0
 Kyle Clifford (LW),Los Angeles Kings,72,11,10,21,0.29,96,4,https://www.eliteprospects.com/player/15480/kyle-clifford,2018-19,nhl,Kyle Clifford,LW,FW,0,0.0,0
@@ -388,7 +389,7 @@ Carter Rowney (RW/C),Anaheim Ducks,62,7,13,20,0.32,12,0,https://www.eliteprospec
 Adam Erne (LW/RW),Tampa Bay Lightning,65,7,13,20,0.31,40,10,https://www.eliteprospects.com/player/90359/adam-erne,2018-19,nhl,Adam Erne,LW/RW,FW,0,0.0,0
 David Backes (RW/C),Boston Bruins,70,7,13,20,0.29,31,0,https://www.eliteprospects.com/player/11435/david-backes,2018-19,nhl,David Backes,RW/C,FW,0,0.0,0
 Matt Cullen (C),Pittsburgh Penguins,71,7,13,20,0.28,14,6,https://www.eliteprospects.com/player/8754/matt-cullen,2018-19,nhl,Matt Cullen,C,FW,0,0.0,0
-Jordan Oesterle (D),Arizona Coyotes,71,6,14,20,0.28,12,-3,https://www.eliteprospects.com/player/84700/jordan-oesterle,2018-19,nhl,Jordan Oesterle,D,DEF,0,0.0,0
+Jordan Oesterle (D),Arizona Coyotes,71,6,14,20,0.28,12,-3,https://www.eliteprospects.com/player/84700/jordan-oesterle,2018-19,nhl,Jordan Oesterle,D,DEF,Jordan Oesterle,6.0,1
 Milan Lucic (LW),Edmonton Oilers,79,6,14,20,0.25,91,-9,https://www.eliteprospects.com/player/11104/milan-lucic,2018-19,nhl,Milan Lucic,LW,FW,0,0.0,0
 Danny DeKeyser (D),Detroit Red Wings,52,5,15,20,0.38,39,2,https://www.eliteprospects.com/player/46947/danny-dekeyser,2018-19,nhl,Danny DeKeyser,D,DEF,0,0.0,0
 Travis Boyd (C),Washington Capitals,53,5,15,20,0.38,6,6,https://www.eliteprospects.com/player/38621/travis-boyd,2018-19,nhl,Travis Boyd,C,FW,0,0.0,0
@@ -412,7 +413,7 @@ Carl Hagelin (LW),totals,58,5,14,19,0.33,30,7,https://www.eliteprospects.com/pla
 David Kämpf (C/W),Chicago Blackhawks,63,4,15,19,0.30,14,-6,https://www.eliteprospects.com/player/160499/david-kampf,2018-19,nhl,David Kämpf,C/W,FW,0,0.0,0
 Scott Mayfield (D),New York Islanders,79,4,15,19,0.24,68,18,https://www.eliteprospects.com/player/45906/scott-mayfield,2018-19,nhl,Scott Mayfield,D,DEF,0,0.0,0
 Zach Bogosian (D),Buffalo Sabres,65,3,16,19,0.29,52,-5,https://www.eliteprospects.com/player/14440/zach-bogosian,2018-19,nhl,Zach Bogosian,D,DEF,0,0.0,0
-Johnny Boychuk (D),New York Islanders,74,3,16,19,0.26,25,10,https://www.eliteprospects.com/player/9091/johnny-boychuk,2018-19,nhl,Johnny Boychuk,D,DEF,0,0.0,0
+Johnny Boychuk (D),New York Islanders,74,3,16,19,0.26,25,10,https://www.eliteprospects.com/player/9091/johnny-boychuk,2018-19,nhl,Johnny Boychuk,D,DEF,Johnny Boychuk,3.0,1
 Rasmus Andersson (D),Calgary Flames,79,2,17,19,0.24,23,17,https://www.eliteprospects.com/player/86137/rasmus-andersson,2018-19,nhl,Rasmus Andersson,D,DEF,0,0.0,0
 Conor Garland (RW/LW),Arizona Coyotes,47,13,5,18,0.38,12,1,https://www.eliteprospects.com/player/177208/conor-garland,2018-19,nhl,Conor Garland,RW/LW,FW,0,0.0,0
 Brandon Pirri (C/LW),Vegas Golden Knights,31,12,6,18,0.58,6,7,https://www.eliteprospects.com/player/33898/brandon-pirri,2018-19,nhl,Brandon Pirri,C/LW,FW,0,0.0,0
@@ -442,12 +443,13 @@ Luke Kunin (C/W),Minnesota Wild,49,6,11,17,0.35,27,-9,https://www.eliteprospects
 Brett Kulak (D),Montréal Canadiens,57,6,11,17,0.30,31,12,https://www.eliteprospects.com/player/88617/brett-kulak,2018-19,nhl,Brett Kulak,D,DEF,0,0.0,0
 Andrew Cogliano (C/LW),totals,78,6,11,17,0.22,22,1,https://www.eliteprospects.com/player/9187/andrew-cogliano,2018-19,nhl,Andrew Cogliano,C/LW,FW,0,0.0,0
 Matt Benning (D),Edmonton Oilers,70,5,12,17,0.24,33,11,https://www.eliteprospects.com/player/29261/matt-benning,2018-19,nhl,Matt Benning,D,DEF,Matt Benning,4.0,1
+Matt Benning (D),Edmonton Oilers,70,5,12,17,0.24,33,11,https://www.eliteprospects.com/player/29261/matt-benning,2018-19,nhl,Matt Benning,D,DEF,Matt Benning,20.0,1
 Sami Vatanen (D),New Jersey Devils,50,4,13,17,0.34,22,-17,https://www.eliteprospects.com/player/16044/sami-vatanen,2018-19,nhl,Sami Vatanen,D,DEF,0,0.0,0
 Travis Dermott (D),Toronto Maple Leafs,64,4,13,17,0.27,22,-5,https://www.eliteprospects.com/player/214673/travis-dermott,2018-19,nhl,Travis Dermott,D,DEF,0,0.0,0
 Jay Bouwmeester (D),St. Louis Blues,78,3,14,17,0.22,40,-3,https://www.eliteprospects.com/player/3659/jay-bouwmeester,2018-19,nhl,Jay Bouwmeester,D,DEF,0,0.0,0
 Anton Strålman (D),Tampa Bay Lightning,47,2,15,17,0.36,8,12,https://www.eliteprospects.com/player/4152/anton-stralman,2018-19,nhl,Anton Strålman,D,DEF,0,0.0,0
 Scott Harrington (D),Columbus Blue Jackets,73,2,15,17,0.23,23,6,https://www.eliteprospects.com/player/39653/scott-harrington,2018-19,nhl,Scott Harrington,D,DEF,0,0.0,0
-Melker Karlsson (RW/C),San Jose Sharks,79,12,4,16,0.20,26,-1,https://www.eliteprospects.com/player/10014/melker-karlsson,2018-19,nhl,Melker Karlsson,RW/C,FW,0,0.0,0
+Melker Karlsson (RW/C),San Jose Sharks,79,12,4,16,0.20,26,-1,https://www.eliteprospects.com/player/10014/melker-karlsson,2018-19,nhl,Melker Karlsson,RW/C,FW,Melker Karlsson,1.0,1
 Michael Grabner (LW/RW),Arizona Coyotes,41,9,7,16,0.39,8,-2,https://www.eliteprospects.com/player/8494/michael-grabner,2018-19,nhl,Michael Grabner,LW/RW,FW,0,0.0,0
 Tyler Motte (C/W),Vancouver Canucks,74,9,7,16,0.22,10,-12,https://www.eliteprospects.com/player/151824/tyler-motte,2018-19,nhl,Tyler Motte,C/W,FW,0,0.0,0
 Austin Watson (W/C),Nashville Predators,37,7,9,16,0.43,39,11,https://www.eliteprospects.com/player/33753/austin-watson,2018-19,nhl,Austin Watson,W/C,FW,0,0.0,0
@@ -465,14 +467,14 @@ Maxime Lajoie (D),Ottawa Senators,56,7,8,15,0.27,20,-25,https://www.eliteprospec
 Eric Fehr (C/RW),Minnesota Wild,72,7,8,15,0.21,30,-8,https://www.eliteprospects.com/player/10352/eric-fehr,2018-19,nhl,Eric Fehr,C/RW,FW,0,0.0,0
 Pierre-Édouard Bellemare (C/LW),Vegas Golden Knights,76,6,9,15,0.20,6,2,https://www.eliteprospects.com/player/8339/pierre-edouard-bellemare,2018-19,nhl,Pierre-Édouard Bellemare,C/LW,FW,0,0.0,0
 Colton Sceviour (C/W),Florida Panthers,59,5,10,15,0.25,15,-2,https://www.eliteprospects.com/player/12557/colton-sceviour,2018-19,nhl,Colton Sceviour,C/W,FW,0,0.0,0
-MacKenzie Weegar (D),Florida Panthers,64,4,11,15,0.23,64,-3,https://www.eliteprospects.com/player/97908/mackenzie-weegar,2018-19,nhl,MacKenzie Weegar,D,DEF,0,0.0,0
+MacKenzie Weegar (D),Florida Panthers,64,4,11,15,0.23,64,-3,https://www.eliteprospects.com/player/97908/mackenzie-weegar,2018-19,nhl,MacKenzie Weegar,D,DEF,MacKenzie Weegar,8.0,1
 Jon Merrill (D),Vegas Golden Knights,57,3,12,15,0.26,53,16,https://www.eliteprospects.com/player/20712/jon-merrill,2018-19,nhl,Jon Merrill,D,DEF,0,0.0,0
 Nick Holden (D),Vegas Golden Knights,61,3,12,15,0.25,14,5,https://www.eliteprospects.com/player/11700/nick-holden,2018-19,nhl,Nick Holden,D,DEF,0,0.0,0
 Justin Schultz (D),Pittsburgh Penguins,29,2,13,15,0.52,4,0,https://www.eliteprospects.com/player/18241/justin-schultz,2018-19,nhl,Justin Schultz,D,DEF,0,0.0,0
 Ian Cole (D),Colorado Avalanche,71,2,13,15,0.21,115,-1,https://www.eliteprospects.com/player/11456/ian-cole,2018-19,nhl,Ian Cole,D,DEF,0,0.0,0
 Sven Bärtschi (LW),Vancouver Canucks,26,9,5,14,0.54,6,-9,https://www.eliteprospects.com/player/33591/sven-bartschi,2018-19,nhl,Sven Bärtschi,LW,FW,0,0.0,0
 Joel Eriksson Ek (C),Minnesota Wild,58,7,7,14,0.24,20,-7,https://www.eliteprospects.com/player/139633/joel-eriksson-ek,2018-19,nhl,Joel Eriksson Ek,C,FW,0,0.0,0
-Nikita Zadorov (D),Colorado Avalanche,70,7,7,14,0.20,75,19,https://www.eliteprospects.com/player/108648/nikita-zadorov,2018-19,nhl,Nikita Zadorov,D,DEF,0,0.0,0
+Nikita Zadorov (D),Colorado Avalanche,70,7,7,14,0.20,75,19,https://www.eliteprospects.com/player/108648/nikita-zadorov,2018-19,nhl,Nikita Zadorov,D,DEF,Nikita Zadorov,3.0,1
 Brandon Dubinsky (C/LW),Columbus Blue Jackets,61,6,8,14,0.23,36,-16,https://www.eliteprospects.com/player/11024/brandon-dubinsky,2018-19,nhl,Brandon Dubinsky,C/LW,FW,0,0.0,0
 Matt Martin (LW),New York Islanders,67,6,8,14,0.21,53,5,https://www.eliteprospects.com/player/19225/matt-martin,2018-19,nhl,Matt Martin,LW,FW,0,0.0,0
 Noel Acciari (C),Boston Bruins,72,6,8,14,0.19,47,-3,https://www.eliteprospects.com/player/214725/noel-acciari,2018-19,nhl,Noel Acciari,C,FW,0,0.0,0
@@ -549,7 +551,7 @@ Mason Appleton (C/RW),Winnipeg Jets,36,3,7,10,0.28,4,9,https://www.eliteprospect
 Matthew Peca (C),Montréal Canadiens,39,3,7,10,0.26,4,-14,https://www.eliteprospects.com/player/78295/matthew-peca,2018-19,nhl,Matthew Peca,C,FW,0,0.0,0
 Sean Walker (D),Los Angeles Kings,39,3,7,10,0.26,8,-8,https://www.eliteprospects.com/player/160791/sean-walker,2018-19,nhl,Sean Walker,D,DEF,0,0.0,0
 Tim Schaller (LW/C),Vancouver Canucks,47,3,7,10,0.21,9,-2,https://www.eliteprospects.com/player/38059/tim-schaller,2018-19,nhl,Tim Schaller,LW/C,FW,0,0.0,0
-Madison Bowey (D),totals,50,2,8,10,0.20,46,-1,https://www.eliteprospects.com/player/97787/madison-bowey,2018-19,nhl,Madison Bowey,D,DEF,0,0.0,0
+Madison Bowey (D),totals,50,2,8,10,0.20,46,-1,https://www.eliteprospects.com/player/97787/madison-bowey,2018-19,nhl,Madison Bowey,D,DEF,Madison Bowey,4.0,1
 Robert Bortuzzo (D),St. Louis Blues,59,2,8,10,0.17,47,9,https://www.eliteprospects.com/player/12524/robert-bortuzzo,2018-19,nhl,Robert Bortuzzo,D,DEF,0,0.0,0
 Brandon Carlo (D),Boston Bruins,72,2,8,10,0.14,47,22,https://www.eliteprospects.com/player/120965/brandon-carlo,2018-19,nhl,Brandon Carlo,D,DEF,0,0.0,0
 Erik Gudbranson (D),totals,76,2,8,10,0.13,87,-20,https://www.eliteprospects.com/player/31282/erik-gudbranson,2018-19,nhl,Erik Gudbranson,D,DEF,0,0.0,0
@@ -617,7 +619,7 @@ Greg Pateryn (D),Minnesota Wild,80,1,6,7,0.09,41,-11,https://www.eliteprospects.
 Kevan Miller (D),Boston Bruins,39,0,7,7,0.18,35,8,https://www.eliteprospects.com/player/38281/kevan-miller,2018-19,nhl,Kevan Miller,D,DEF,0,0.0,0
 Joakim Ryan (D),San Jose Sharks,44,0,7,7,0.16,15,-1,https://www.eliteprospects.com/player/51926/joakim-ryan,2018-19,nhl,Joakim Ryan,D,DEF,0,0.0,0
 Carl Grundström (RW/LW),Los Angeles Kings,15,5,1,6,0.40,6,-4,https://www.eliteprospects.com/player/113516/carl-grundstrom,2018-19,nhl,Carl Grundström,RW/LW,FW,0,0.0,0
-Peter Cehlarik (LW/RW),Boston Bruins,20,4,2,6,0.30,6,3,https://www.eliteprospects.com/player/153203/peter-cehlarik,2018-19,nhl,Peter Cehlarik,LW/RW,FW,0,0.0,0
+Peter Cehlárik (LW/RW),Boston Bruins,20,4,2,6,0.30,6,3,https://www.eliteprospects.com/player/153203/peter-cehlarik,2018-19,nhl,Peter Cehlárik,LW/RW,FW,0,0.0,0
 Jean-Sébastien Dea (C/RW),totals,23,4,2,6,0.26,8,0,https://www.eliteprospects.com/player/128463/jean-sebastien-dea,2018-19,nhl,Jean-Sébastien Dea,C/RW,FW,0,0.0,0
 Brandon Sutter (C/RW),Vancouver Canucks,26,4,2,6,0.23,6,-12,https://www.eliteprospects.com/player/9339/brandon-sutter,2018-19,nhl,Brandon Sutter,C/RW,FW,0,0.0,0
 Lukas Sedlak (C/LW),Columbus Blue Jackets,47,4,2,6,0.13,10,-5,https://www.eliteprospects.com/player/56037/lukas-sedlak,2018-19,nhl,Lukas Sedlak,C/LW,FW,0,0.0,0
@@ -627,7 +629,7 @@ Steven Kampfer (D),Boston Bruins,35,3,3,6,0.17,22,-6,https://www.eliteprospects.
 Sheldon Dries (C/W),Colorado Avalanche,40,3,3,6,0.15,26,-7,https://www.eliteprospects.com/player/97620/sheldon-dries,2018-19,nhl,Sheldon Dries,C/W,FW,0,0.0,0
 Matt Roy (D),Los Angeles Kings,25,2,4,6,0.24,8,-1,https://www.eliteprospects.com/player/191271/matt-roy,2018-19,nhl,Matt Roy,D,DEF,0,0.0,0
 Slater Koekkoek (D),totals,31,2,4,6,0.19,14,4,https://www.eliteprospects.com/player/84723/slater-koekkoek,2018-19,nhl,Slater Koekkoek,D,DEF,0,0.0,0
-Robby Fabbri (C/LW),St. Louis Blues,32,2,4,6,0.19,6,-4,https://www.eliteprospects.com/player/156923/robby-fabbri,2018-19,nhl,Robby Fabbri,C/LW,FW,0,0.0,0
+Robby Fabbri (C/LW),St. Louis Blues,32,2,4,6,0.19,6,-4,https://www.eliteprospects.com/player/156923/robby-fabbri,2018-19,nhl,Robby Fabbri,C/LW,FW,Robby Fabbri,1.0,1
 Fredrik Claesson (D),New York Rangers,37,2,4,6,0.16,9,3,https://www.eliteprospects.com/player/14412/fredrik-claesson,2018-19,nhl,Fredrik Claesson,D,DEF,0,0.0,0
 Lias Andersson (C/W),New York Rangers,42,2,4,6,0.14,29,-13,https://www.eliteprospects.com/player/214318/lias-andersson,2018-19,nhl,Lias Andersson,C/W,FW,0,0.0,0
 Micheal Haley (C/W),totals,43,2,4,6,0.14,75,-2,https://www.eliteprospects.com/player/14655/micheal-haley,2018-19,nhl,Micheal Haley,C/W,FW,0,0.0,0
@@ -646,7 +648,8 @@ Ben Street (C/LW),Anaheim Ducks,21,3,2,5,0.24,2,-4,https://www.eliteprospects.co
 Ryan Graves (D),Colorado Avalanche,26,3,2,5,0.19,2,4,https://www.eliteprospects.com/player/103763/ryan-graves,2018-19,nhl,Ryan Graves,D,DEF,0,0.0,0
 Mackenzie MacEachern (LW),St. Louis Blues,29,3,2,5,0.17,10,0,https://www.eliteprospects.com/player/183505/mackenzie-maceachern,2018-19,nhl,Mackenzie MacEachern,LW,FW,0,0.0,0
 Charles Hudon (LW/RW),Montréal Canadiens,32,3,2,5,0.16,16,-9,https://www.eliteprospects.com/player/76324/charles-hudon,2018-19,nhl,Charles Hudon,LW/RW,FW,0,0.0,0
-Jonathan Ericsson (D),Detroit Red Wings,52,3,2,5,0.10,35,-10,https://www.eliteprospects.com/player/1346/jonathan-ericsson,2018-19,nhl,Jonathan Ericsson,D,DEF,0,0.0,0
+Jonathan Ericsson (D),Detroit Red Wings,52,3,2,5,0.10,35,-10,https://www.eliteprospects.com/player/1346/jonathan-ericsson,2018-19,nhl,Jonathan Ericsson,D,DEF,Jonathan Ericsson,1.0,1
+Jonathan Ericsson (D),Detroit Red Wings,52,3,2,5,0.10,35,-10,https://www.eliteprospects.com/player/1346/jonathan-ericsson,2018-19,nhl,Jonathan Ericsson,D,DEF,Jonathan Ericsson,15.0,1
 John Hayden (C/RW),Chicago Blackhawks,54,3,2,5,0.09,27,-12,https://www.eliteprospects.com/player/151828/john-hayden,2018-19,nhl,John Hayden,C/RW,FW,0,0.0,0
 Gavin Bayreuther (D),Dallas Stars,19,2,3,5,0.26,10,2,https://www.eliteprospects.com/player/178941/gavin-bayreuther,2018-19,nhl,Gavin Bayreuther,D,DEF,0,0.0,0
 Josh Currie (C),Edmonton Oilers,21,2,3,5,0.24,2,2,https://www.eliteprospects.com/player/45243/josh-currie,2018-19,nhl,Josh Currie,C,FW,0,0.0,0
@@ -814,7 +817,7 @@ Cale Makar (D),Colorado Avalanche,0,0,0,0,0.00,0,0,https://www.eliteprospects.co
 Vladislav Gavrikov (D),Columbus Blue Jackets,0,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/165015/vladislav-gavrikov,2018-19,nhl,Vladislav Gavrikov,D,DEF,0,0.0,0
 Aleksi Saarela (C/LW),Carolina Hurricanes,0,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/94117/aleksi-saarela,2018-19,nhl,Aleksi Saarela,C/LW,FW,0,0.0,0
 Patrick Brown (C/RW),Carolina Hurricanes,0,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/75038/patrick-brown,2018-19,nhl,Patrick Brown,C/RW,FW,0,0.0,0
-Stephen Johns (D),Dallas Stars,0,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/20711/stephen-johns,2018-19,nhl,Stephen Johns,D,DEF,0,0.0,0
+Stephen Johns (D),Dallas Stars,0,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/20711/stephen-johns,2018-19,nhl,Stephen Johns,D,DEF,Stephen Johns,47.0,1
 Derek Dorsett (RW),Vancouver Canucks,0,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/11666/derek-dorsett,2018-19,nhl,Derek Dorsett,RW,FW,0,0.0,0
 David Clarkson (RW),Vegas Golden Knights,0,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/11018/david-clarkson,2018-19,nhl,David Clarkson,RW,FW,0,0.0,0
 Clarke MacArthur (LW),Ottawa Senators,0,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/8951/clarke-macarthur,2018-19,nhl,Clarke MacArthur,LW,FW,Clarke MacArthur,71.0,1

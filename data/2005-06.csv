@@ -22,7 +22,7 @@ Henrik Zetterberg (C),Detroit Red Wings,77,39,46,85,1.10,30,29,https://www.elite
 Andy McDonald (C/LW),Mighty Ducks of Anaheim,82,34,51,85,1.04,32,24,https://www.eliteprospects.com/player/8527/andy-mcdonald,2005-06,nhl,Andy McDonald,C/LW,FW,0,0.0,0
 Paul Kariya (LW),Nashville Predators,82,31,54,85,1.04,40,-6,https://www.eliteprospects.com/player/9002/paul-kariya,2005-06,nhl,Paul Kariya,LW,FW,0,0.0,0
 Scott Gomez (C),New Jersey Devils,82,33,51,84,1.02,42,8,https://www.eliteprospects.com/player/9050/scott-gomez,2005-06,nhl,Scott Gomez,C,FW,0,0.0,0
-Brendan Shanahan (LW),Detroit Red Wings,82,40,41,81,0.99,105,29,https://www.eliteprospects.com/player/8693/brendan-shanahan,2005-06,nhl,Brendan Shanahan,LW,FW,0,0.0,0
+Brendan Shanahan (LW),Detroit Red Wings,82,40,41,81,0.99,105,29,https://www.eliteprospects.com/player/8693/brendan-shanahan,2005-06,nhl,Brendan Shanahan,LW,FW,Brendan Shanahan,15.0,1
 Václav Prospal (LW/C),Tampa Bay Lightning,81,25,55,80,0.99,50,-3,https://www.eliteprospects.com/player/8641/vaclav-prospal,2005-06,nhl,Václav Prospal,LW/C,FW,0,0.0,0
 Nicklas Lidström (D),Detroit Red Wings,80,16,64,80,1.00,50,21,https://www.eliteprospects.com/player/722/nicklas-lidstrom,2005-06,nhl,Nicklas Lidström,D,DEF,0,0.0,0
 Simon Gagné (LW),Philadelphia Flyers,72,47,32,79,1.10,38,31,https://www.eliteprospects.com/player/8828/simon-gagne,2005-06,nhl,Simon Gagné,LW,FW,0,0.0,0
@@ -43,7 +43,7 @@ Henrik Sedin (C),Vancouver Canucks,82,18,57,75,0.91,56,11,https://www.eliteprosp
 Patrice Bergeron (C),Boston Bruins,81,31,42,73,0.90,22,3,https://www.eliteprospects.com/player/9079/patrice-bergeron,2005-06,nhl,Patrice Bergeron,C,FW,0,0.0,0
 Maxim Afinogenov (RW),Buffalo Sabres,77,22,51,73,0.95,84,6,https://www.eliteprospects.com/player/8672/maxim-afinogenov,2005-06,nhl,Maxim Afinogenov,RW,FW,0,0.0,0
 Shawn Horcoff (C),Edmonton Oilers,79,22,51,73,0.92,85,0,https://www.eliteprospects.com/player/4375/shawn-horcoff,2005-06,nhl,Shawn Horcoff,C,FW,0,0.0,0
-Vyacheslav Kozlov (LW),Atlanta Thrashers,82,25,46,71,0.87,33,14,https://www.eliteprospects.com/player/8544/vyacheslav-kozlov,2005-06,nhl,Vyacheslav Kozlov,LW,FW,0,0.0,0
+Vyacheslav Kozlov (LW),Atlanta Thrashers,82,25,46,71,0.87,33,14,https://www.eliteprospects.com/player/8544/vyacheslav-kozlov,2005-06,nhl,Vyacheslav Kozlov,LW,FW,Vyacheslav Kozlov,1.0,1
 Todd Bertuzzi (RW/LW),Vancouver Canucks,82,25,46,71,0.87,120,-17,https://www.eliteprospects.com/player/9081/todd-bertuzzi,2005-06,nhl,Todd Bertuzzi,RW/LW,FW,0,0.0,0
 Daniel Sedin (LW),Vancouver Canucks,82,22,49,71,0.87,34,7,https://www.eliteprospects.com/player/737/daniel-sedin,2005-06,nhl,Daniel Sedin,LW,FW,0,0.0,0
 Sergei Zubov (D),Dallas Stars,78,13,58,71,0.91,46,20,https://www.eliteprospects.com/player/8508/sergei-zubov,2005-06,nhl,Sergei Zubov,D,DEF,0,0.0,0
@@ -51,6 +51,7 @@ Rod Brind'Amour (C),Carolina Hurricanes,78,31,39,70,0.90,68,8,https://www.elitep
 Brad Boyes (RW),Boston Bruins,82,26,43,69,0.84,30,11,https://www.eliteprospects.com/player/9092/brad-boyes,2005-06,nhl,Brad Boyes,RW,FW,0,0.0,0
 Steve Sullivan (LW),Nashville Predators,69,31,37,68,0.99,50,2,https://www.eliteprospects.com/player/8896/steve-sullivan,2005-06,nhl,Steve Sullivan,LW,FW,0,0.0,0
 Jarret Stoll (C),Edmonton Oilers,82,22,46,68,0.83,74,4,https://www.eliteprospects.com/player/8895/jarret-stoll,2005-06,nhl,Jarret Stoll,C,FW,Jarret Stoll,30.0,1
+Jarret Stoll (C),Edmonton Oilers,82,22,46,68,0.83,74,4,https://www.eliteprospects.com/player/8895/jarret-stoll,2005-06,nhl,Jarret Stoll,C,FW,Jarret Stoll,1.0,1
 Bryan McCabe (D),Toronto Maple Leafs,73,19,49,68,0.93,116,-1,https://www.eliteprospects.com/player/4727/bryan-mccabe,2005-06,nhl,Bryan McCabe,D,DEF,0,0.0,0
 Jarome Iginla (RW),Calgary Flames,82,35,32,67,0.82,86,5,https://www.eliteprospects.com/player/9036/jarome-iginla,2005-06,nhl,Jarome Iginla,RW,FW,0,0.0,0
 Chris Drury (C),Buffalo Sabres,81,30,37,67,0.83,32,-11,https://www.eliteprospects.com/player/8804/chris-drury,2005-06,nhl,Chris Drury,C,FW,Chris Drury,4.0,1
@@ -70,7 +71,7 @@ Mark Recchi (RW),totals,83,28,36,64,0.77,68,-36,https://www.eliteprospects.com/p
 Mike Sillinger (C),totals,79,32,31,63,0.80,63,-17,https://www.eliteprospects.com/player/8881/mike-sillinger,2005-06,nhl,Mike Sillinger,C,FW,0,0.0,0
 Andrew Brunette (LW),Colorado Avalanche,82,24,39,63,0.77,48,9,https://www.eliteprospects.com/player/9101/andrew-brunette,2005-06,nhl,Andrew Brunette,LW,FW,0,0.0,0
 Scott Niedermayer (D),Mighty Ducks of Anaheim,82,13,50,63,0.77,96,8,https://www.eliteprospects.com/player/8521/scott-niedermayer,2005-06,nhl,Scott Niedermayer,D,DEF,0,0.0,0
-Pavol Demitra (C),Los Angeles Kings,58,25,37,62,1.07,42,21,https://www.eliteprospects.com/player/8596/pavol-demitra,2005-06,nhl,Pavol Demitra,C,FW,0,0.0,0
+Pavol Demitra (C),Los Angeles Kings,58,25,37,62,1.07,42,21,https://www.eliteprospects.com/player/8596/pavol-demitra,2005-06,nhl,Pavol Demitra,C,FW,Pavol Demitra,8.0,1
 Ales Kotalik (RW/LW),Buffalo Sabres,82,25,37,62,0.76,62,-3,https://www.eliteprospects.com/player/8676/ales-kotalik,2005-06,nhl,Ales Kotalik,RW/LW,FW,0,0.0,0
 Robert Lang (C),Detroit Red Wings,72,20,42,62,0.86,72,17,https://www.eliteprospects.com/player/8617/robert-lang,2005-06,nhl,Robert Lang,C,FW,0,0.0,0
 Saku Koivu (C),Montréal Canadiens,72,17,45,62,0.86,70,1,https://www.eliteprospects.com/player/2669/saku-koivu,2005-06,nhl,Saku Koivu,C,FW,0,0.0,0
@@ -79,14 +80,14 @@ Darcy Tucker (LW),Toronto Maple Leafs,74,28,33,61,0.82,100,-12,https://www.elite
 Mike Comrie (C),Phoenix Coyotes,80,30,30,60,0.75,55,2,https://www.eliteprospects.com/player/4701/mike-comrie,2005-06,nhl,Mike Comrie,C,FW,0,0.0,0
 Jason Allison (C),Toronto Maple Leafs,66,17,43,60,0.91,76,-18,https://www.eliteprospects.com/player/9064/jason-allison,2005-06,nhl,Jason Allison,C,FW,0,0.0,0
 Erik Cole (LW),Carolina Hurricanes,60,30,29,59,0.98,54,19,https://www.eliteprospects.com/player/8732/erik-cole,2005-06,nhl,Erik Cole,LW,FW,0,0.0,0
-Marco Sturm (LW),totals,74,29,30,59,0.80,48,6,https://www.eliteprospects.com/player/8573/marco-sturm,2005-06,nhl,Marco Sturm,LW,FW,0,0.0,0
+Marco Sturm (LW),totals,74,29,30,59,0.80,48,6,https://www.eliteprospects.com/player/8573/marco-sturm,2005-06,nhl,Marco Sturm,LW,FW,Marco Sturm,2.0,1
 Tomas Holmström (RW),Detroit Red Wings,81,29,30,59,0.73,66,14,https://www.eliteprospects.com/player/712/tomas-holmstrom,2005-06,nhl,Tomas Holmström,RW,FW,0,0.0,0
 Kyle Calder (LW),Chicago Blackhawks,79,26,33,59,0.75,52,-4,https://www.eliteprospects.com/player/5671/kyle-calder,2005-06,nhl,Kyle Calder,LW,FW,0,0.0,0
 Daymond Langkow (C),Calgary Flames,82,25,34,59,0.72,46,2,https://www.eliteprospects.com/player/8986/daymond-langkow,2005-06,nhl,Daymond Langkow,C,FW,0,0.0,0
 Mathieu Schneider (D),Detroit Red Wings,72,21,38,59,0.82,86,33,https://www.eliteprospects.com/player/8875/mathieu-schneider,2005-06,nhl,Mathieu Schneider,D,DEF,0,0.0,0
 Pierre-Marc Bouchard (C),Minnesota Wild,80,17,42,59,0.74,28,3,https://www.eliteprospects.com/player/9086/pierre-marc-bouchard,2005-06,nhl,Pierre-Marc Bouchard,C,FW,0,0.0,0
 Daniel Brière (C),Buffalo Sabres,48,25,33,58,1.21,48,3,https://www.eliteprospects.com/player/8770/daniel-briere,2005-06,nhl,Daniel Brière,C,FW,0,0.0,0
-Milan Hejduk (RW),Colorado Avalanche,74,24,34,58,0.78,24,13,https://www.eliteprospects.com/player/8603/milan-hejduk,2005-06,nhl,Milan Hejduk,RW,FW,0,0.0,0
+Milan Hejduk (RW),Colorado Avalanche,74,24,34,58,0.78,24,13,https://www.eliteprospects.com/player/8603/milan-hejduk,2005-06,nhl,Milan Hejduk,RW,FW,Milan Hejduk,1.0,1
 Jason Williams (RW/C),Detroit Red Wings,80,21,37,58,0.73,26,4,https://www.eliteprospects.com/player/8713/jason-williams,2005-06,nhl,Jason Williams,RW/C,FW,Jason Williams,3.0,1
 Sergei Gonchar (D),Pittsburgh Penguins,75,12,46,58,0.77,100,-13,https://www.eliteprospects.com/player/8678/sergei-gonchar,2005-06,nhl,Sergei Gonchar,D,DEF,0,0.0,0
 Jason Blake (LW/C),New York Islanders,76,28,29,57,0.75,60,0,https://www.eliteprospects.com/player/8782/jason-blake,2005-06,nhl,Jason Blake,LW/C,FW,0,0.0,0
@@ -96,7 +97,7 @@ Nils Ekman (LW),San Jose Sharks,77,21,36,57,0.74,54,20,https://www.eliteprospect
 Doug Weight (C),totals,70,15,42,57,0.81,75,-17,https://www.eliteprospects.com/player/8733/doug-weight,2005-06,nhl,Doug Weight,C,FW,0,0.0,0
 Joe Nieuwendyk (C),Florida Panthers,65,26,30,56,0.86,46,-2,https://www.eliteprospects.com/player/8950/joe-nieuwendyk,2005-06,nhl,Joe Nieuwendyk,C,FW,0,0.0,0
 Brendan Morrison (C),Vancouver Canucks,82,19,37,56,0.68,84,-1,https://www.eliteprospects.com/player/4321/brendan-morrison,2005-06,nhl,Brendan Morrison,C,FW,0,0.0,0
-Ladislav Nagy (LW/RW),Phoenix Coyotes,51,15,41,56,1.10,74,8,https://www.eliteprospects.com/player/5522/ladislav-nagy,2005-06,nhl,Ladislav Nagy,LW/RW,FW,0,0.0,0
+Ladislav Nagy (LW/RW),Phoenix Coyotes,51,15,41,56,1.10,74,8,https://www.eliteprospects.com/player/5522/ladislav-nagy,2005-06,nhl,Ladislav Nagy,LW/RW,FW,Ladislav Nagy,1.0,1
 Chris Pronger (D),Edmonton Oilers,80,12,44,56,0.70,74,2,https://www.eliteprospects.com/player/8538/chris-pronger,2005-06,nhl,Chris Pronger,D,DEF,0,0.0,0
 Anson Carter (RW),Vancouver Canucks,81,33,22,55,0.68,41,-1,https://www.eliteprospects.com/player/9111/anson-carter,2005-06,nhl,Anson Carter,RW,FW,0,0.0,0
 Michael Ryder (RW),Montréal Canadiens,81,30,25,55,0.68,40,-5,https://www.eliteprospects.com/player/4487/michael-ryder,2005-06,nhl,Michael Ryder,RW,FW,0,0.0,0
@@ -124,7 +125,7 @@ John LeClair (LW),Pittsburgh Penguins,73,22,29,51,0.70,61,-24,https://www.elitep
 Mike Ribeiro (C),Montréal Canadiens,79,16,35,51,0.65,36,-6,https://www.eliteprospects.com/player/8715/mike-ribeiro,2005-06,nhl,Mike Ribeiro,C,FW,0,0.0,0
 Rob Blake (D),Colorado Avalanche,81,14,37,51,0.63,94,2,https://www.eliteprospects.com/player/8580/rob-blake,2005-06,nhl,Rob Blake,D,DEF,0,0.0,0
 Marek Svatos (RW),Colorado Avalanche,61,32,18,50,0.82,60,0,https://www.eliteprospects.com/player/8604/marek-svatos,2005-06,nhl,Marek Svatos,RW,FW,0,0.0,0
-Peter Schaefer (LW),Ottawa Senators,82,20,30,50,0.61,40,16,https://www.eliteprospects.com/player/8757/peter-schaefer,2005-06,nhl,Peter Schaefer,LW,FW,0,0.0,0
+Peter Schaefer (LW),Ottawa Senators,82,20,30,50,0.61,40,16,https://www.eliteprospects.com/player/8757/peter-schaefer,2005-06,nhl,Peter Schaefer,LW,FW,Peter Schaefer,1.0,1
 Kimmo Timonen (D),Nashville Predators,79,11,39,50,0.63,74,-3,https://www.eliteprospects.com/player/2664/kimmo-timonen,2005-06,nhl,Kimmo Timonen,D,DEF,0,0.0,0
 Wade Redden (D),Ottawa Senators,65,10,40,50,0.77,63,35,https://www.eliteprospects.com/player/8931/wade-redden,2005-06,nhl,Wade Redden,D,DEF,0,0.0,0
 Mark Parrish (RW),totals,76,29,20,49,0.64,20,-23,https://www.eliteprospects.com/player/8905/mark-parrish,2005-06,nhl,Mark Parrish,RW,FW,0,0.0,0
@@ -168,7 +169,7 @@ Jaroslav Spacek (D),totals,76,12,31,43,0.57,96,11,https://www.eliteprospects.com
 Brad Stuart (D),totals,78,12,31,43,0.55,52,-8,https://www.eliteprospects.com/player/3669/brad-stuart,2005-06,nhl,Brad Stuart,D,DEF,0,0.0,0
 Tom Preissing (D),San Jose Sharks,74,11,32,43,0.58,26,17,https://www.eliteprospects.com/player/8662/tom-preissing,2005-06,nhl,Tom Preissing,D,DEF,0,0.0,0
 Jeff Carter (C),Philadelphia Flyers,81,23,19,42,0.52,40,10,https://www.eliteprospects.com/player/8813/jeff-carter,2005-06,nhl,Jeff Carter,C,FW,0,0.0,0
-Jochen Hecht (C/LW),Buffalo Sabres,64,18,24,42,0.66,34,10,https://www.eliteprospects.com/player/8674/jochen-hecht,2005-06,nhl,Jochen Hecht,C/LW,FW,0,0.0,0
+Jochen Hecht (C/LW),Buffalo Sabres,64,18,24,42,0.66,34,10,https://www.eliteprospects.com/player/8674/jochen-hecht,2005-06,nhl,Jochen Hecht,C/LW,FW,Jochen Hecht,3.0,1
 Tony Amonte (RW),Calgary Flames,80,14,28,42,0.53,43,3,https://www.eliteprospects.com/player/9065/tony-amonte,2005-06,nhl,Tony Amonte,RW,FW,0,0.0,0
 Zigmund Pálffy (RW),Pittsburgh Penguins,42,11,31,42,1.00,12,5,https://www.eliteprospects.com/player/12627/zigmund-palffy,2005-06,nhl,Zigmund Pálffy,RW,FW,0,0.0,0
 Raffi Torres (LW),Edmonton Oilers,82,27,14,41,0.50,50,4,https://www.eliteprospects.com/player/8857/raffi-torres,2005-06,nhl,Raffi Torres,LW,FW,0,0.0,0
@@ -189,7 +190,7 @@ Randy Robitaille (C),Minnesota Wild,67,12,28,40,0.60,54,-5,https://www.elitepros
 Brett McLean (C),Colorado Avalanche,82,9,31,40,0.49,51,-7,https://www.eliteprospects.com/player/4518/brett-mclean,2005-06,nhl,Brett McLean,C,FW,0,0.0,0
 Teppo Numminen (D),Buffalo Sabres,75,2,38,40,0.53,36,6,https://www.eliteprospects.com/player/2684/teppo-numminen,2005-06,nhl,Teppo Numminen,D,DEF,0,0.0,0
 Peter Bondra (RW),Atlanta Thrashers,60,21,18,39,0.65,40,-3,https://www.eliteprospects.com/player/8553/peter-bondra,2005-06,nhl,Peter Bondra,RW,FW,0,0.0,0
-Chris Clark (RW),Washington Capitals,78,20,19,39,0.50,110,9,https://www.eliteprospects.com/player/8766/chris-clark,2005-06,nhl,Chris Clark,RW,FW,0,0.0,0
+Chris Clark (RW),Washington Capitals,78,20,19,39,0.50,110,9,https://www.eliteprospects.com/player/8766/chris-clark,2005-06,nhl,Chris Clark,RW,FW,Chris Clark,2.0,1
 Chris Gratton (C),Florida Panthers,76,17,22,39,0.51,104,6,https://www.eliteprospects.com/player/9167/chris-gratton,2005-06,nhl,Chris Gratton,C,FW,0,0.0,0
 Radim Vrbata (RW),totals,61,15,24,39,0.64,22,4,https://www.eliteprospects.com/player/8626/radim-vrbata,2005-06,nhl,Radim Vrbata,RW,FW,0,0.0,0
 Sean Avery (LW/C),Los Angeles Kings,75,15,24,39,0.52,257,-5,https://www.eliteprospects.com/player/8720/sean-avery,2005-06,nhl,Sean Avery,LW/C,FW,0,0.0,0
@@ -215,10 +216,10 @@ Dean McAmmond (LW),St. Louis Blues,78,15,22,37,0.47,32,-25,https://www.elitepros
 Sergei Brylin (W/C),New Jersey Devils,82,15,22,37,0.45,46,-4,https://www.eliteprospects.com/player/8697/sergei-brylin,2005-06,nhl,Sergei Brylin,W/C,FW,0,0.0,0
 Mike Van Ryn (D),Florida Panthers,80,8,29,37,0.46,90,15,https://www.eliteprospects.com/player/8834/mike-van-ryn,2005-06,nhl,Mike Van Ryn,D,DEF,0,0.0,0
 Paul Martin (D),New Jersey Devils,80,5,32,37,0.46,32,1,https://www.eliteprospects.com/player/8778/paul-martin,2005-06,nhl,Paul Martin,D,DEF,0,0.0,0
-John Madden (C),New Jersey Devils,82,16,20,36,0.44,36,-7,https://www.eliteprospects.com/player/8723/john-madden,2005-06,nhl,John Madden,C,FW,0,0.0,0
+John Madden (C),New Jersey Devils,82,16,20,36,0.44,36,-7,https://www.eliteprospects.com/player/8723/john-madden,2005-06,nhl,John Madden,C,FW,John Madden,1.0,1
 Keith Tkachuk (LW),St. Louis Blues,41,15,21,36,0.88,46,-15,https://www.eliteprospects.com/player/8856/keith-tkachuk,2005-06,nhl,Keith Tkachuk,LW,FW,0,0.0,0
 Stu Barnes (C),Dallas Stars,78,15,21,36,0.46,44,9,https://www.eliteprospects.com/player/9074/stu-barnes,2005-06,nhl,Stu Barnes,C,FW,0,0.0,0
-Steve Rucchin (C),New York Rangers,72,13,23,36,0.50,10,6,https://www.eliteprospects.com/player/8555/steve-rucchin,2005-06,nhl,Steve Rucchin,C,FW,0,0.0,0
+Steve Rucchin (C),New York Rangers,72,13,23,36,0.50,10,6,https://www.eliteprospects.com/player/8555/steve-rucchin,2005-06,nhl,Steve Rucchin,C,FW,Steve Rucchin,25.0,1
 Brett Clark (D),Colorado Avalanche,80,9,27,36,0.45,56,3,https://www.eliteprospects.com/player/9113/brett-clark,2005-06,nhl,Brett Clark,D,DEF,0,0.0,0
 François Beauchemin (D),totals,72,8,28,36,0.50,63,2,https://www.eliteprospects.com/player/8529/francois-beauchemin,2005-06,nhl,François Beauchemin,D,DEF,0,0.0,0
 Milan Michálek (LW/RW),San Jose Sharks,81,17,18,35,0.43,45,1,https://www.eliteprospects.com/player/8586/milan-michalek,2005-06,nhl,Milan Michálek,LW/RW,FW,0,0.0,0
@@ -289,7 +290,7 @@ Jason Ward (RW),New York Rangers,81,10,18,28,0.35,44,-4,https://www.eliteprospec
 Radek Dvorak (RW),Edmonton Oilers,64,8,20,28,0.44,26,-2,https://www.eliteprospects.com/player/8599/radek-dvorak,2005-06,nhl,Radek Dvorak,RW,FW,0,0.0,0
 Steve Staios (D),Edmonton Oilers,82,8,20,28,0.34,84,10,https://www.eliteprospects.com/player/5677/steve-staios,2005-06,nhl,Steve Staios,D,DEF,0,0.0,0
 Matthew Barnaby (RW/LW),Chicago Blackhawks,82,8,20,28,0.34,178,-11,https://www.eliteprospects.com/player/9073/matthew-barnaby,2005-06,nhl,Matthew Barnaby,RW/LW,FW,Matthew Barnaby,38.0,1
-Jamie Heward (D),Washington Capitals,71,7,21,28,0.39,54,-5,https://www.eliteprospects.com/player/9049/jamie-heward,2005-06,nhl,Jamie Heward,D,DEF,0,0.0,0
+Jamie Heward (D),Washington Capitals,71,7,21,28,0.39,54,-5,https://www.eliteprospects.com/player/9049/jamie-heward,2005-06,nhl,Jamie Heward,D,DEF,Jamie Heward,5.0,1
 Duvie Westcott (D),Columbus Blue Jackets,78,6,22,28,0.36,133,1,https://www.eliteprospects.com/player/8714/duvie-westcott,2005-06,nhl,Duvie Westcott,D,DEF,Duvie Westcott,40.0,1
 Alexandre Daigle (C),Minnesota Wild,46,5,23,28,0.61,12,-6,https://www.eliteprospects.com/player/10648/alexandre-daigle,2005-06,nhl,Alexandre Daigle,C,FW,0,0.0,0
 Brent Sopel (D),totals,68,2,26,28,0.41,70,-13,https://www.eliteprospects.com/player/10229/brent-sopel,2005-06,nhl,Brent Sopel,D,DEF,0,0.0,0
@@ -377,7 +378,7 @@ Duncan Keith (D),Chicago Blackhawks,81,9,12,21,0.26,79,-11,https://www.elitepros
 Rostislav Olesz (LW/RW),Florida Panthers,59,8,13,21,0.36,24,-4,https://www.eliteprospects.com/player/8652/rostislav-olesz,2005-06,nhl,Rostislav Olesz,LW/RW,FW,0,0.0,0
 Niklas Hagman (LW/RW),totals,84,8,13,21,0.25,18,-10,https://www.eliteprospects.com/player/2680/niklas-hagman,2005-06,nhl,Niklas Hagman,LW/RW,FW,0,0.0,0
 Brooks Laich (C/LW),Washington Capitals,73,7,14,21,0.29,26,-9,https://www.eliteprospects.com/player/9518/brooks-laich,2005-06,nhl,Brooks Laich,C/LW,FW,0,0.0,0
-Radek Bonk (C),Montréal Canadiens,61,6,15,21,0.34,52,-3,https://www.eliteprospects.com/player/8671/radek-bonk,2005-06,nhl,Radek Bonk,C,FW,0,0.0,0
+Radek Bonk (C),Montréal Canadiens,61,6,15,21,0.34,52,-3,https://www.eliteprospects.com/player/8671/radek-bonk,2005-06,nhl,Radek Bonk,C,FW,Radek Bonk,5.0,1
 Mikko Koivu (C),Minnesota Wild,64,6,15,21,0.33,40,-9,https://www.eliteprospects.com/player/2696/mikko-koivu,2005-06,nhl,Mikko Koivu,C,FW,0,0.0,0
 Henrik Tallinder (D),Buffalo Sabres,82,6,15,21,0.26,74,10,https://www.eliteprospects.com/player/1955/henrik-tallinder,2005-06,nhl,Henrik Tallinder,D,DEF,0,0.0,0
 Vaclav Varada (RW),Ottawa Senators,76,5,16,21,0.28,50,2,https://www.eliteprospects.com/player/8661/vaclav-varada,2005-06,nhl,Vaclav Varada,RW,FW,0,0.0,0
@@ -398,7 +399,7 @@ Jordan Leopold (D),Calgary Flames,74,2,18,20,0.27,68,6,https://www.eliteprospect
 Sean Hill (D),Florida Panthers,78,2,18,20,0.26,80,3,https://www.eliteprospects.com/player/9054/sean-hill,2005-06,nhl,Sean Hill,D,DEF,0,0.0,0
 Keith Carney (D),totals,79,2,18,20,0.25,62,8,https://www.eliteprospects.com/player/9109/keith-carney,2005-06,nhl,Keith Carney,D,DEF,0,0.0,0
 Greg Johnson (C),Nashville Predators,68,11,8,19,0.28,10,5,https://www.eliteprospects.com/player/9032/greg-johnson,2005-06,nhl,Greg Johnson,C,FW,0,0.0,0
-Alexander Perezhogin (LW/RW),Montréal Canadiens,67,9,10,19,0.28,38,5,https://www.eliteprospects.com/player/8669/alexander-perezhogin,2005-06,nhl,Alexander Perezhogin,LW/RW,FW,0,0.0,0
+Alexander Perezhogin (LW/RW),Montréal Canadiens,67,9,10,19,0.28,38,5,https://www.eliteprospects.com/player/8669/alexander-perezhogin,2005-06,nhl,Alexander Perezhogin,LW/RW,FW,Alexander Perezhogin,15.0,1
 Matt Bradley (RW/LW),Washington Capitals,74,7,12,19,0.26,72,-8,https://www.eliteprospects.com/player/9093/matt-bradley,2005-06,nhl,Matt Bradley,RW/LW,FW,0,0.0,0
 Rostislav Klesla (D),Columbus Blue Jackets,51,6,13,19,0.37,75,-4,https://www.eliteprospects.com/player/8622/rostislav-klesla,2005-06,nhl,Rostislav Klesla,D,DEF,0,0.0,0
 Jason Woolley (D),Detroit Red Wings,53,1,18,19,0.36,28,3,https://www.eliteprospects.com/player/8833/jason-woolley,2005-06,nhl,Jason Woolley,D,DEF,0,0.0,0
@@ -410,7 +411,7 @@ Richard Park (RW/C),Vancouver Canucks,60,8,10,18,0.30,29,-2,https://www.elitepro
 Andrei Zyuzin (D),Minnesota Wild,57,7,11,18,0.32,50,-12,https://www.eliteprospects.com/player/8608/andrei-zyuzin,2005-06,nhl,Andrei Zyuzin,D,DEF,0,0.0,0
 Dave Andreychuk (LW),Tampa Bay Lightning,42,6,12,18,0.43,16,-13,https://www.eliteprospects.com/player/21425/dave-andreychuk,2005-06,nhl,Dave Andreychuk,LW,FW,0,0.0,0
 Christian Bäckman (D),St. Louis Blues,52,6,12,18,0.35,48,-15,https://www.eliteprospects.com/player/290/christian-backman,2005-06,nhl,Christian Bäckman,D,DEF,0,0.0,0
-Steve Eminger (D),Washington Capitals,66,5,13,18,0.27,81,-12,https://www.eliteprospects.com/player/9147/steve-eminger,2005-06,nhl,Steve Eminger,D,DEF,0,0.0,0
+Steve Eminger (D),Washington Capitals,66,5,13,18,0.27,81,-12,https://www.eliteprospects.com/player/9147/steve-eminger,2005-06,nhl,Steve Eminger,D,DEF,Steve Eminger,3.0,1
 Jim Dowd (C),totals,78,5,13,18,0.23,40,-11,https://www.eliteprospects.com/player/8739/jim-dowd,2005-06,nhl,Jim Dowd,C,FW,0,0.0,0
 Stéphane Yelle (C),Calgary Flames,74,4,14,18,0.24,48,10,https://www.eliteprospects.com/player/8795/stephane-yelle,2005-06,nhl,Stéphane Yelle,C,FW,0,0.0,0
 Daniel Tjärnqvist (D),Minnesota Wild,60,3,15,18,0.30,32,-11,https://www.eliteprospects.com/player/695/daniel-tjarnqvist,2005-06,nhl,Daniel Tjärnqvist,D,DEF,0,0.0,0
@@ -431,7 +432,7 @@ Colin White (D),New Jersey Devils,73,3,14,17,0.23,91,-2,https://www.eliteprospec
 Ron Hainsey (D),Columbus Blue Jackets,55,2,15,17,0.31,43,13,https://www.eliteprospects.com/player/9037/ron-hainsey,2005-06,nhl,Ron Hainsey,D,DEF,0,0.0,0
 Radek Martínek (D),New York Islanders,74,1,16,17,0.23,32,-9,https://www.eliteprospects.com/player/8694/radek-martinek,2005-06,nhl,Radek Martínek,D,DEF,0,0.0,0
 Eric Weinrich (D),totals,75,1,16,17,0.23,52,-23,https://www.eliteprospects.com/player/8706/eric-weinrich,2005-06,nhl,Eric Weinrich,D,DEF,0,0.0,0
-Toni Lydman (D),Buffalo Sabres,75,1,16,17,0.23,82,9,https://www.eliteprospects.com/player/2678/toni-lydman,2005-06,nhl,Toni Lydman,D,DEF,0,0.0,0
+Toni Lydman (D),Buffalo Sabres,75,1,16,17,0.23,82,9,https://www.eliteprospects.com/player/2678/toni-lydman,2005-06,nhl,Toni Lydman,D,DEF,Toni Lydman,6.0,1
 Johan Franzén (LW),Detroit Red Wings,80,12,4,16,0.20,36,4,https://www.eliteprospects.com/player/158/johan-franzen,2005-06,nhl,Johan Franzén,LW,FW,0,0.0,0
 Marcel Hossa (LW/RW),New York Rangers,64,10,6,16,0.25,28,-6,https://www.eliteprospects.com/player/4532/marcel-hossa,2005-06,nhl,Marcel Hossa,LW/RW,FW,0,0.0,0
 Mike Ricci (C),Phoenix Coyotes,78,10,6,16,0.21,69,-22,https://www.eliteprospects.com/player/8909/mike-ricci,2005-06,nhl,Mike Ricci,C,FW,0,0.0,0
@@ -501,7 +502,7 @@ Andrew Ladd (LW),Carolina Hurricanes,29,6,5,11,0.38,4,0,https://www.eliteprospec
 Milan Jurcina (D),Boston Bruins,51,6,5,11,0.22,54,3,https://www.eliteprospects.com/player/8677/milan-jurcina,2005-06,nhl,Milan Jurcina,D,DEF,0,0.0,0
 Kirk Maltby (LW),Detroit Red Wings,82,5,6,11,0.13,80,-9,https://www.eliteprospects.com/player/8954/kirk-maltby,2005-06,nhl,Kirk Maltby,LW,FW,0,0.0,0
 Jeff Friesen (LW),totals,51,4,7,11,0.22,32,-15,https://www.eliteprospects.com/player/9159/jeff-friesen,2005-06,nhl,Jeff Friesen,LW,FW,0,0.0,0
-Mattias Weinhandl (RW),totals,68,4,7,11,0.16,24,-4,https://www.eliteprospects.com/player/236/mattias-weinhandl,2005-06,nhl,Mattias Weinhandl,RW,FW,0,0.0,0
+Mattias Weinhandl (RW),totals,68,4,7,11,0.16,24,-4,https://www.eliteprospects.com/player/236/mattias-weinhandl,2005-06,nhl,Mattias Weinhandl,RW,FW,Mattias Weinhandl,3.0,1
 Jon Klemm (D),Dallas Stars,76,4,7,11,0.14,60,-3,https://www.eliteprospects.com/player/9017/jon-klemm,2005-06,nhl,Jon Klemm,D,DEF,0,0.0,0
 Chris Chelios (D),Detroit Red Wings,81,4,7,11,0.14,108,22,https://www.eliteprospects.com/player/9112/chris-chelios,2005-06,nhl,Chris Chelios,D,DEF,0,0.0,0
 Andrew Hutchinson (D),Carolina Hurricanes,36,3,8,11,0.31,18,-2,https://www.eliteprospects.com/player/9061/andrew-hutchinson,2005-06,nhl,Andrew Hutchinson,D,DEF,0,0.0,0
@@ -521,15 +522,16 @@ Jean-Pierre Vigier (RW),Atlanta Thrashers,41,4,6,10,0.24,40,-4,https://www.elite
 Christoph Schubert (D),Ottawa Senators,56,4,6,10,0.18,48,4,https://www.eliteprospects.com/player/8877/christoph-schubert,2005-06,nhl,Christoph Schubert,D,DEF,0,0.0,0
 Barret Jackman (D),St. Louis Blues,63,4,6,10,0.16,156,-6,https://www.eliteprospects.com/player/9025/barret-jackman,2005-06,nhl,Barret Jackman,D,DEF,0,0.0,0
 Tom Fitzgerald (RW),Boston Bruins,71,4,6,10,0.14,40,-10,https://www.eliteprospects.com/player/9154/tom-fitzgerald,2005-06,nhl,Tom Fitzgerald,RW,FW,0,0.0,0
-Jody Shelley (LW),Columbus Blue Jackets,80,3,7,10,0.13,163,-4,https://www.eliteprospects.com/player/8722/jody-shelley,2005-06,nhl,Jody Shelley,LW,FW,0,0.0,0
-Shea Weber (D),Nashville Predators,28,2,8,10,0.36,42,8,https://www.eliteprospects.com/player/9505/shea-weber,2005-06,nhl,Shea Weber,D,DEF,0,0.0,0
+Jody Shelley (LW),Columbus Blue Jackets,80,3,7,10,0.13,163,-4,https://www.eliteprospects.com/player/8722/jody-shelley,2005-06,nhl,Jody Shelley,LW,FW,Jody Shelley,2.0,1
+Jody Shelley (LW),Columbus Blue Jackets,80,3,7,10,0.13,163,-4,https://www.eliteprospects.com/player/8722/jody-shelley,2005-06,nhl,Jody Shelley,LW,FW,Jody Shelley,4.0,1
+Shea Weber (D),Nashville Predators,28,2,8,10,0.36,42,8,https://www.eliteprospects.com/player/9505/shea-weber,2005-06,nhl,Shea Weber,D,DEF,Shea Weber,3.0,1
 Glen Wesley (D),Carolina Hurricanes,64,2,8,10,0.16,46,10,https://www.eliteprospects.com/player/8819/glen-wesley,2005-06,nhl,Glen Wesley,D,DEF,0,0.0,0
 Willie Mitchell (D),totals,80,2,8,10,0.13,113,19,https://www.eliteprospects.com/player/8548/willie-mitchell,2005-06,nhl,Willie Mitchell,D,DEF,Willie Mitchell,9.0,1
 Alexei Zhamnov (C),Boston Bruins,24,1,9,10,0.42,30,-4,https://www.eliteprospects.com/player/8572/alexei-zhamnov,2005-06,nhl,Alexei Zhamnov,C,FW,0,0.0,0
 Luke Richardson (D),totals,65,1,9,10,0.15,71,-19,https://www.eliteprospects.com/player/8933/luke-richardson,2005-06,nhl,Luke Richardson,D,DEF,0,0.0,0
 Garnet Exelby (D),Atlanta Thrashers,75,1,9,10,0.13,75,11,https://www.eliteprospects.com/player/8558/garnet-exelby,2005-06,nhl,Garnet Exelby,D,DEF,0,0.0,0
 Hal Gill (D),Boston Bruins,80,1,9,10,0.13,124,-4,https://www.eliteprospects.com/player/8718/hal-gill,2005-06,nhl,Hal Gill,D,DEF,0,0.0,0
-Jeff Cowan (LW),Los Angeles Kings,46,8,1,9,0.20,73,-8,https://www.eliteprospects.com/player/9125/jeff-cowan,2005-06,nhl,Jeff Cowan,LW,FW,0,0.0,0
+Jeff Cowan (LW),Los Angeles Kings,46,8,1,9,0.20,73,-8,https://www.eliteprospects.com/player/9125/jeff-cowan,2005-06,nhl,Jeff Cowan,LW,FW,Jeff Cowan,2.0,1
 Eric Brewer (D),St. Louis Blues,32,6,3,9,0.28,45,-17,https://www.eliteprospects.com/player/9095/eric-brewer,2005-06,nhl,Eric Brewer,D,DEF,0,0.0,0
 Vladimír Országh (RW),St. Louis Blues,16,4,5,9,0.56,14,-2,https://www.eliteprospects.com/player/1648/vladimir-orszagh,2005-06,nhl,Vladimír Országh,RW,FW,0,0.0,0
 Josef Vasicek (C),Carolina Hurricanes,23,4,5,9,0.39,8,3,https://www.eliteprospects.com/player/8614/josef-vasicek,2005-06,nhl,Josef Vasicek,C,FW,0,0.0,0
@@ -583,7 +585,7 @@ Rico Fata (C),totals,47,3,4,7,0.15,22,-4,https://www.eliteprospects.com/player/8
 Jeff Giuliano (LW),Los Angeles Kings,48,3,4,7,0.15,26,0,https://www.eliteprospects.com/player/12590/jeff-giuliano,2005-06,nhl,Jeff Giuliano,LW,FW,0,0.0,0
 Jason Strudwick (D),New York Rangers,65,3,4,7,0.11,66,-10,https://www.eliteprospects.com/player/8753/jason-strudwick,2005-06,nhl,Jason Strudwick,D,DEF,0,0.0,0
 James Wisniewski (D),Chicago Blackhawks,19,2,5,7,0.37,36,0,https://www.eliteprospects.com/player/9407/james-wisniewski,2005-06,nhl,James Wisniewski,D,DEF,0,0.0,0
-Carlo Colaiacovo (D),Toronto Maple Leafs,21,2,5,7,0.33,17,0,https://www.eliteprospects.com/player/9117/carlo-colaiacovo,2005-06,nhl,Carlo Colaiacovo,D,DEF,0,0.0,0
+Carlo Colaiacovo (D),Toronto Maple Leafs,21,2,5,7,0.33,17,0,https://www.eliteprospects.com/player/9117/carlo-colaiacovo,2005-06,nhl,Carlo Colaiacovo,D,DEF,Carlo Colaiacovo,3.0,1
 Trent Whitfield (C),St. Louis Blues,30,2,5,7,0.23,14,-3,https://www.eliteprospects.com/player/8823/trent-whitfield,2005-06,nhl,Trent Whitfield,C,FW,0,0.0,0
 Adam Mair (RW),Buffalo Sabres,40,2,5,7,0.18,47,-2,https://www.eliteprospects.com/player/8811/adam-mair,2005-06,nhl,Adam Mair,RW,FW,0,0.0,0
 Steve Montador (D),totals,58,2,5,7,0.12,79,4,https://www.eliteprospects.com/player/8729/steve-montador,2005-06,nhl,Steve Montador,D,DEF,0,0.0,0
@@ -630,7 +632,7 @@ Ryan Hollweg (LW),New York Rangers,52,2,3,5,0.10,84,-3,https://www.eliteprospect
 George Parros (RW),Los Angeles Kings,55,2,3,5,0.09,138,1,https://www.eliteprospects.com/player/8907/george-parros,2005-06,nhl,George Parros,RW,FW,0,0.0,0
 Brian McGrattan (RW),Ottawa Senators,60,2,3,5,0.08,141,0,https://www.eliteprospects.com/player/8976/brian-mcgrattan,2005-06,nhl,Brian McGrattan,RW,FW,0,0.0,0
 Kurt Sauer (D),Colorado Avalanche,37,1,4,5,0.14,24,5,https://www.eliteprospects.com/player/8870/kurt-sauer,2005-06,nhl,Kurt Sauer,D,DEF,0,0.0,0
-Bryce Salvador (D),St. Louis Blues,46,1,4,5,0.11,26,-24,https://www.eliteprospects.com/player/8864/bryce-salvador,2005-06,nhl,Bryce Salvador,D,DEF,0,0.0,0
+Bryce Salvador (D),St. Louis Blues,46,1,4,5,0.11,26,-24,https://www.eliteprospects.com/player/8864/bryce-salvador,2005-06,nhl,Bryce Salvador,D,DEF,Bryce Salvador,2.0,1
 Geoff Platt (W/C),Columbus Blue Jackets,15,0,5,5,0.33,16,-4,https://www.eliteprospects.com/player/9469/geoff-platt,2005-06,nhl,Geoff Platt,W/C,FW,0,0.0,0
 Denis Grebeshkov (D),totals,29,0,5,5,0.17,20,-12,https://www.eliteprospects.com/player/9570/denis-grebeshkov,2005-06,nhl,Denis Grebeshkov,D,DEF,0,0.0,0
 Steve Poapst (D),totals,62,0,5,5,0.08,47,-26,https://www.eliteprospects.com/player/8916/steve-poapst,2005-06,nhl,Steve Poapst,D,DEF,0,0.0,0
@@ -650,7 +652,7 @@ Jakub Klepis (C/RW),Washington Capitals,25,1,3,4,0.16,8,-11,https://www.elitepro
 Jeff Tambellini (LW/RW),totals,25,1,3,4,0.16,10,1,https://www.eliteprospects.com/player/9509/jeff-tambellini,2005-06,nhl,Jeff Tambellini,LW/RW,FW,0,0.0,0
 Turner Stevenson (RW),Philadelphia Flyers,31,1,3,4,0.13,45,-2,https://www.eliteprospects.com/player/25592/turner-stevenson,2005-06,nhl,Turner Stevenson,RW,FW,0,0.0,0
 Jason Marshall (D),Mighty Ducks of Anaheim,23,0,4,4,0.17,34,2,https://www.eliteprospects.com/player/8533/jason-marshall,2005-06,nhl,Jason Marshall,D,DEF,0,0.0,0
-David Hale (D),New Jersey Devils,38,0,4,4,0.11,21,5,https://www.eliteprospects.com/player/9038/david-hale,2005-06,nhl,David Hale,D,DEF,0,0.0,0
+David Hale (D),New Jersey Devils,38,0,4,4,0.11,21,5,https://www.eliteprospects.com/player/9038/david-hale,2005-06,nhl,David Hale,D,DEF,David Hale,14.0,1
 Cale Hulse (D),totals,39,0,4,4,0.10,63,-8,https://www.eliteprospects.com/player/9059/cale-hulse,2005-06,nhl,Cale Hulse,D,DEF,0,0.0,0
 Chris Therien (D),Philadelphia Flyers,47,0,4,4,0.09,34,-7,https://www.eliteprospects.com/player/8849/chris-therien,2005-06,nhl,Chris Therien,D,DEF,0,0.0,0
 Ossi Väänänen (D),Colorado Avalanche,53,0,4,4,0.08,56,10,https://www.eliteprospects.com/player/2685/ossi-vaananen,2005-06,nhl,Ossi Väänänen,D,DEF,0,0.0,0
@@ -739,7 +741,7 @@ Mark Giordano (D),Calgary Flames,7,0,1,1,0.14,8,2,https://www.eliteprospects.com
 Tomas Mojzis (D),Vancouver Canucks,7,0,1,1,0.14,12,2,https://www.eliteprospects.com/player/8610/tomas-mojzis,2005-06,nhl,Tomas Mojzis,D,DEF,0,0.0,0
 Jay Harrison (D),Toronto Maple Leafs,8,0,1,1,0.13,2,5,https://www.eliteprospects.com/player/9522/jay-harrison,2005-06,nhl,Jay Harrison,D,DEF,0,0.0,0
 Matthew Spiller (D),Phoenix Coyotes,8,0,1,1,0.13,13,-1,https://www.eliteprospects.com/player/11472/matthew-spiller,2005-06,nhl,Matthew Spiller,D,DEF,0,0.0,0
-Braydon Coburn (D),Atlanta Thrashers,9,0,1,1,0.11,4,-2,https://www.eliteprospects.com/player/9477/braydon-coburn,2005-06,nhl,Braydon Coburn,D,DEF,0,0.0,0
+Braydon Coburn (D),Atlanta Thrashers,9,0,1,1,0.11,4,-2,https://www.eliteprospects.com/player/9477/braydon-coburn,2005-06,nhl,Braydon Coburn,D,DEF,Braydon Coburn,1.0,1
 Timo Helbling (D),Tampa Bay Lightning,9,0,1,1,0.11,6,-3,https://www.eliteprospects.com/player/9551/timo-helbling,2005-06,nhl,Timo Helbling,D,DEF,0,0.0,0
 Erik Westrum (C),Minnesota Wild,10,0,1,1,0.10,2,-1,https://www.eliteprospects.com/player/11040/erik-westrum,2005-06,nhl,Erik Westrum,C,FW,0,0.0,0
 Greg Jacina (C/RW),Florida Panthers,11,0,1,1,0.09,4,-1,https://www.eliteprospects.com/player/10248/greg-jacina,2005-06,nhl,Greg Jacina,C/RW,FW,0,0.0,0
@@ -833,7 +835,7 @@ Raitis Ivanans (LW),Montréal Canadiens,4,0,0,0,0.00,9,-1,https://www.eliteprosp
 Noah Clarke (LW),Los Angeles Kings,5,0,0,0,0.00,0,0,https://www.eliteprospects.com/player/10321/noah-clarke,2005-06,nhl,Noah Clarke,LW,FW,0,0.0,0
 Jon DiSalvatore (RW),St. Louis Blues,5,0,0,0,0.00,2,-1,https://www.eliteprospects.com/player/9451/jon-disalvatore,2005-06,nhl,Jon DiSalvatore,RW,FW,0,0.0,0
 Aaron Gavey (C),Mighty Ducks of Anaheim,5,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/9684/aaron-gavey,2005-06,nhl,Aaron Gavey,C,FW,0,0.0,0
-Ole-Kristian Tollefsen (D),Columbus Blue Jackets,5,0,0,0,0.00,2,-2,https://www.eliteprospects.com/player/3214/ole-kristian-tollefsen,2005-06,nhl,Ole-Kristian Tollefsen,D,DEF,0,0.0,0
+Ole-Kristian Tollefsen (D),Columbus Blue Jackets,5,0,0,0,0.00,2,-2,https://www.eliteprospects.com/player/3214/ole-kristian-tollefsen,2005-06,nhl,Ole-Kristian Tollefsen,D,DEF,Ole-Kristian Tollefsen,1.0,1
 Zdenek Blatny (LW),Boston Bruins,5,0,0,0,0.00,2,-2,https://www.eliteprospects.com/player/8636/zdenek-blatny,2005-06,nhl,Zdenek Blatny,LW,FW,0,0.0,0
 Doug O'Brien (D),Tampa Bay Lightning,5,0,0,0,0.00,2,0,https://www.eliteprospects.com/player/8940/doug-o-brien,2005-06,nhl,Doug O'Brien,D,DEF,0,0.0,0
 Erik Reitz (D),Minnesota Wild,5,0,0,0,0.00,4,-2,https://www.eliteprospects.com/player/9449/erik-reitz,2005-06,nhl,Erik Reitz,D,DEF,0,0.0,0
