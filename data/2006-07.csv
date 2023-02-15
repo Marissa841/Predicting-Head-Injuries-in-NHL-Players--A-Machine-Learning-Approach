@@ -1,4 +1,4 @@
-player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,Concussion
+player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,head_injuries
 Sidney Crosby (C),Pittsburgh Penguins,79,36,84,120,1.52,60,10,https://www.eliteprospects.com/player/6146/sidney-crosby,2006-07,nhl,Sidney Crosby,C,FW,0,0.0,0
 Joe Thornton (C),San Jose Sharks,82,22,92,114,1.39,44,24,https://www.eliteprospects.com/player/3670/joe-thornton,2006-07,nhl,Joe Thornton,C,FW,0,0.0,0
 Vincent Lecavalier (C),Tampa Bay Lightning,82,52,56,108,1.32,44,2,https://www.eliteprospects.com/player/3667/vincent-lecavalier,2006-07,nhl,Vincent Lecavalier,C,FW,0,0.0,0

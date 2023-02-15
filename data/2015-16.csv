@@ -1,4 +1,4 @@
-player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,Concussion
+player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,head_injuries
 Patrick Kane (RW),Chicago Blackhawks,82,46,60,106,1.29,30,17,https://www.eliteprospects.com/player/9326/patrick-kane,2015-16,nhl,Patrick Kane,RW,FW,0,0.0,0
 Jamie Benn (LW),Dallas Stars,82,41,48,89,1.09,64,7,https://www.eliteprospects.com/player/15399/jamie-benn,2015-16,nhl,Jamie Benn,LW,FW,0,0.0,0
 Sidney Crosby (C),Pittsburgh Penguins,80,36,49,85,1.06,42,19,https://www.eliteprospects.com/player/6146/sidney-crosby,2015-16,nhl,Sidney Crosby,C,FW,Sidney Crosby,6.0,1

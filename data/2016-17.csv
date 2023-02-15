@@ -1,4 +1,4 @@
-player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,Concussion
+player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,head_injuries
 Connor McDavid (C),Edmonton Oilers,82,30,70,100,1.22,26,27,https://www.eliteprospects.com/player/183442/connor-mcdavid,2016-17,nhl,Connor McDavid,C,FW,0,0.0,0
 Sidney Crosby (C),Pittsburgh Penguins,75,44,45,89,1.19,24,17,https://www.eliteprospects.com/player/6146/sidney-crosby,2016-17,nhl,Sidney Crosby,C,FW,0,0.0,0
 Patrick Kane (RW),Chicago Blackhawks,82,34,55,89,1.09,32,11,https://www.eliteprospects.com/player/9326/patrick-kane,2016-17,nhl,Patrick Kane,RW,FW,0,0.0,0

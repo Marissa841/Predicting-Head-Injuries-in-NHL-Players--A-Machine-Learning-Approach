@@ -1,4 +1,4 @@
-player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,Concussion
+player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,head_injuries
 Connor McDavid (C),Edmonton Oilers,82,41,67,108,1.32,26,20,https://www.eliteprospects.com/player/183442/connor-mcdavid,2017-18,nhl,Connor McDavid,C,FW,0,0.0,0
 Claude Giroux (W/C),Philadelphia Flyers,82,34,68,102,1.24,20,28,https://www.eliteprospects.com/player/10437/claude-giroux,2017-18,nhl,Claude Giroux,W/C,FW,0,0.0,0
 Nikita Kucherov (RW),Tampa Bay Lightning,80,39,61,100,1.25,42,15,https://www.eliteprospects.com/player/77237/nikita-kucherov,2017-18,nhl,Nikita Kucherov,RW,FW,0,0.0,0

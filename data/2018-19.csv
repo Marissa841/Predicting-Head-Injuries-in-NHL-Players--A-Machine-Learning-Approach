@@ -1,4 +1,4 @@
-player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,Concussion
+player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,head_injuries
 Nikita Kucherov (RW),Tampa Bay Lightning,82,41,87,128,1.56,62,24,https://www.eliteprospects.com/player/77237/nikita-kucherov,2018-19,nhl,Nikita Kucherov,RW,FW,0,0.0,0
 Connor McDavid (C),Edmonton Oilers,78,41,75,116,1.49,20,3,https://www.eliteprospects.com/player/183442/connor-mcdavid,2018-19,nhl,Connor McDavid,C,FW,0,0.0,0
 Patrick Kane (RW),Chicago Blackhawks,81,44,66,110,1.36,22,2,https://www.eliteprospects.com/player/9326/patrick-kane,2018-19,nhl,Patrick Kane,RW,FW,0,0.0,0

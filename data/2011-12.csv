@@ -1,4 +1,4 @@
-player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,Concussion
+player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,head_injuries
 Yevgeni Malkin (C),Pittsburgh Penguins,75,50,59,109,1.45,70,18,https://www.eliteprospects.com/player/4231/yevgeni-malkin,2011-12,nhl,Yevgeni Malkin,C,FW,0,0.0,0
 Steven Stamkos (C/W),Tampa Bay Lightning,82,60,37,97,1.18,66,7,https://www.eliteprospects.com/player/11113/steven-stamkos,2011-12,nhl,Steven Stamkos,C/W,FW,0,0.0,0
 Claude Giroux (W/C),Philadelphia Flyers,77,28,65,93,1.21,29,6,https://www.eliteprospects.com/player/10437/claude-giroux,2011-12,nhl,Claude Giroux,W/C,FW,0,0.0,0

@@ -1,4 +1,4 @@
-player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,Concussion
+player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,head_injuries
 Sidney Crosby (C),Pittsburgh Penguins,80,36,68,104,1.30,46,18,https://www.eliteprospects.com/player/6146/sidney-crosby,2013-14,nhl,Sidney Crosby,C,FW,0,0.0,0
 Ryan Getzlaf (C),Anaheim Ducks,77,31,56,87,1.13,31,28,https://www.eliteprospects.com/player/8526/ryan-getzlaf,2013-14,nhl,Ryan Getzlaf,C,FW,0,0.0,0
 Claude Giroux (W/C),Philadelphia Flyers,82,28,58,86,1.05,46,7,https://www.eliteprospects.com/player/10437/claude-giroux,2013-14,nhl,Claude Giroux,W/C,FW,0,0.0,0

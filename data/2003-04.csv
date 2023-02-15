@@ -1,4 +1,4 @@
-player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,Concussion
+player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,head_injuries
 Martin St-Louis (RW),Tampa Bay Lightning,82,38,56,94,1.15,24,35,https://www.eliteprospects.com/player/8772/martin-st-louis,2003-04,nhl,Martin St-Louis,RW,FW,0.0,0.0,0
 Ilya Kovalchuk (LW/RW),Atlanta Thrashers,81,41,46,87,1.07,63,-10,https://www.eliteprospects.com/player/3660/ilya-kovalchuk,2003-04,nhl,Ilya Kovalchuk,LW/RW,FW,0.0,0.0,0
 Joe Sakic (C),Colorado Avalanche,81,33,54,87,1.07,42,11,https://www.eliteprospects.com/player/8862/joe-sakic,2003-04,nhl,Joe Sakic,C,FW,0.0,0.0,0

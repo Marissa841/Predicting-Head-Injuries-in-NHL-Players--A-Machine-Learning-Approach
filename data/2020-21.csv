@@ -1,4 +1,4 @@
-player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,Concussion
+player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,head_injuries
 Connor McDavid (C),Edmonton Oilers,56,33,72,105,1.88,20,21,https://www.eliteprospects.com/player/183442/connor-mcdavid,2020-21,nhl,Connor McDavid,C,FW,0,0.0,0
 Leon Draisaitl (C/W),Edmonton Oilers,56,31,53,84,1.50,22,29,https://www.eliteprospects.com/player/71913/leon-draisaitl,2020-21,nhl,Leon Draisaitl,C/W,FW,0,0.0,0
 Brad Marchand (W/C),Boston Bruins,53,29,40,69,1.30,46,26,https://www.eliteprospects.com/player/10439/brad-marchand,2020-21,nhl,Brad Marchand,W/C,FW,0,0.0,0

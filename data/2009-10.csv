@@ -1,4 +1,4 @@
-player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,Concussion
+player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,head_injuries
 Henrik Sedin (C),Vancouver Canucks,82,29,83,112,1.37,48,35,https://www.eliteprospects.com/player/738/henrik-sedin,2009-10,nhl,Henrik Sedin,C,FW,0,0.0,0
 Sidney Crosby (C),Pittsburgh Penguins,81,51,58,109,1.35,71,15,https://www.eliteprospects.com/player/6146/sidney-crosby,2009-10,nhl,Sidney Crosby,C,FW,Sidney Crosby,41.0,1
 Alexander Ovechkin (LW),Washington Capitals,72,50,59,109,1.51,89,45,https://www.eliteprospects.com/player/4230/alexander-ovechkin,2009-10,nhl,Alexander Ovechkin,LW,FW,0,0.0,0

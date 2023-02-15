@@ -1,4 +1,4 @@
-player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,Concussion
+player,team,gp,g,a,tp,ppg,pim,+/-,link,season,league,playername,position,fw_def,Name,Games Missed,head_injuries
 Leon Draisaitl (C/W),Edmonton Oilers,71,43,67,110,1.55,18,-7,https://www.eliteprospects.com/player/71913/leon-draisaitl,2019-20,nhl,Leon Draisaitl,C/W,FW,0,0.0,0
 Connor McDavid (C),Edmonton Oilers,64,34,63,97,1.52,28,-6,https://www.eliteprospects.com/player/183442/connor-mcdavid,2019-20,nhl,Connor McDavid,C,FW,0,0.0,0
 David Pastrnak (RW),Boston Bruins,70,48,47,95,1.36,40,21,https://www.eliteprospects.com/player/130383/david-pastrnak,2019-20,nhl,David Pastrnak,RW,FW,0,0.0,0
