@@ -35,7 +35,9 @@ However, due to the randomness of head injuries, this is still a challenging pro
 
 # Future Work
 
-More feature engineering and validating the target variable with another nhl injury dataset (injury data is not always accurately reported)
+- More feature engineering
+
+- Validating the target variable with another NHL injury dataset (injury data is not always accurately reported)
 
 # For more information
 
