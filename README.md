@@ -39,6 +39,10 @@ Players with head injuries on average have more penalty minutes:
 
 ![Confusion Matrix](https://raw.githubusercontent.com/Marissa841/phase_5_project/main/img/confusion_matrix.png)
 
+**Classification Report of Final Model**
+
+![Classification Report](https://raw.githubusercontent.com/Marissa841/phase_5_project/main/img/classification_report.PNG)
+
 ## Recommendations
 **1. Penalty Minutes:** Players that have more penalty minutes get more head injuries. 
 
