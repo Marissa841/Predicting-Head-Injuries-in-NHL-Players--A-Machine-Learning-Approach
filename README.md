@@ -61,7 +61,7 @@ Players with head injuries on average have more penalty minutes:
 | Shayne Gostisbehere | 87%                        |
 | Brett Kulak         | 86%                        |
 | Erik Gustafsson     | 86%                        |
-| Steven Kampfer      | 86&                        |
+| Steven Kampfer      | 86%                        |
 
 **Actionable Step:** NHL coaches and managers can have team personnel monitoring for a head injury.
 
