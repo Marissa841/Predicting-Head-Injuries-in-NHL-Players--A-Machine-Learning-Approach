@@ -4,7 +4,7 @@ Head injuries and concussions have become a serious issue in professional sports
 
 # Data
 
-The data used in this project is from the Eliteprospect_scraper package which contains data of NHL players and https://nhlinjuryviz.blogspot.com/2015/11/nhl-injury-database.html which I corowsnvert to a csv file to view injuries over the past 20 years. The final dataset contains 18,723 rows and 47 features.
+The data used in this project is from the Eliteprospect_scraper package which contains data of NHL players and https://nhlinjuryviz.blogspot.com/2015/11/nhl-injury-database.html which I convert to a csv file to view injuries over the past 20 years. The final dataset contains 18,723 rows and 47 features.
 
 # Methods
 
